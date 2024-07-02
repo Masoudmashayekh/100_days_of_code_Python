@@ -6,6 +6,7 @@ What I Learned: Variables, Input function, Print, String Manipulation.
 
 Link to Work: https://replit.com/@masoudmashayekh/band-name-generator-end?v=1
 
+
 Day 2/100: Tip Calculator
 
 What I Did: Beginner - Understanding Data Types and How to Manipulate Strings.
