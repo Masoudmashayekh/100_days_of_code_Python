@@ -1,3 +1,5 @@
+100 Days of Code (Python)
+
 Day 1/100: Band Name Generator
 
 What I Did: Beginner - Working with Variables in Python to Manage Data.
