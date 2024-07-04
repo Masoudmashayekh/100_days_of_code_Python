@@ -17,6 +17,7 @@ What I Learned: Data type, Numbers, Operations, Type conversion, f-Strings.
 
 Link to Work: https://replit.com/@masoudmashayekh/tip-calculator-start#main.py
 
+
 Day 3/100: Treasure Island
 
 What I Did: Beginner - Control Flow and Logical Operators.
@@ -24,3 +25,12 @@ What I Did: Beginner - Control Flow and Logical Operators.
 What I Learned: Conditional statements, Logical operators, Code Blocks and Scope.
 
 Link to Work: https://replit.com/@masoudmashayekh/treasure-island-start
+
+
+Day 4/100: Treasure Island
+
+What I Did: Beginner - Randomisation and Python Lists.
+
+What I Learned: Randomisation and Python Lists.
+
+Link to Work: https://replit.com/@masoudmashayekh/rock-paper-scissors-start#main.py
