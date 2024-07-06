@@ -42,3 +42,13 @@ What I Did: Beginner - Python Loops.
 What I Learned: For Loops, Range and Code Blocks.
 
 Link to Work: https://replit.com/@masoudmashayekh/password-generator-start#main.py
+
+Day 6/100: Escaping the Maze
+
+What I Did: Beginner - Python Functions & Karel.
+
+What I Learned: Functions, Code Blocks and while Loop.
+
+Link to Work: https://rb.gy/e2xyt8
+
+
