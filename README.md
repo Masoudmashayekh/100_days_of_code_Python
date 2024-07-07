@@ -55,7 +55,7 @@ Day 7/100: Hangman
 
 What I Did: Beginner - Hangman.
 
-What I Learned: Reveiw, for & while Loop, if/elif, Lists, strings, range, Modules.
+What I Learned: Review, for & while Loop, if/elif, Lists, strings, range, Modules.
 
 Link to Work: https://replit.com/@masoudmashayekh/Day-7-Hangman-5-Start#main.py
 
