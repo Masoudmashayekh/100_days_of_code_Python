@@ -51,4 +51,12 @@ What I Learned: Functions, Code Blocks and while Loop.
 
 Link to Work: https://rb.gy/e2xyt8
 
+Day 7/100: Hangman
+
+What I Did: Beginner - Hangman.
+
+What I Learned: Reveiw, for & while Loop, if/elif, Lists, strings, range, Modules.
+
+Link to Work: https://replit.com/@masoudmashayekh/Day-7-Hangman-5-Start#main.py
+
 
