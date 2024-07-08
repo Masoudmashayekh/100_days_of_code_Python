@@ -59,4 +59,12 @@ What I Learned: Review, for & while Loop, if/elif, Lists, strings, range, Module
 
 Link to Work: https://replit.com/@masoudmashayekh/Day-7-Hangman-5-Start#main.py
 
+Day 8/100: Caesar Cipher
+
+What I Did: Beginner - Function Parameters & Caesar Cipher.
+
+What I Learned: Function with inputs, Arguments & Parameters.
+
+Link to Work: https://replit.com/@masoudmashayekh/caesar-cipher-4-start#main.py
+
 
