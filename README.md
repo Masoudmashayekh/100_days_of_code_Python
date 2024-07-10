@@ -67,4 +67,12 @@ What I Learned: Function with inputs, Arguments & Parameters.
 
 Link to Work: https://replit.com/@masoudmashayekh/caesar-cipher-4-start#main.py
 
+Day 9/100: The Secret Auction Program
+
+What I Did: Beginner - Dictionaries, Nesting and the Secret Auction.
+
+What I Learned: Dictionaries and Nesting.
+
+Link to Work: https://replit.com/@masoudmashayekh/blind-auction-start#main.py
+
 
