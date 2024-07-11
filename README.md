@@ -75,4 +75,12 @@ What I Learned: Dictionaries and Nesting.
 
 Link to Work: https://replit.com/@masoudmashayekh/blind-auction-start#main.py
 
+Day 10/100: The Secret Auction Program
+
+What I Did: Beginner - Functions with Outputs.
+
+What I Learned: Functions with Outputs.
+
+Link to Work: https://replit.com/@masoudmashayekh/calculator-start#main.py
+
 
