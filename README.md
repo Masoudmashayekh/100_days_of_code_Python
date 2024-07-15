@@ -91,4 +91,12 @@ What I Learned: Review, for & while Loop, if/elif, Lists, strings, range, Module
 
 Link to Work: https://replit.com/@masoudmashayekh/blackjack-start#main.py
 
+Day 12/100: Guessing Game
+
+What I Did: Beginner - Scope & Number Guessing Game.
+
+What I Learned: Namespaces, Local Vs. Global scope.
+
+Link to Work: https://replit.com/@masoudmashayekh/day-12-start#main.py
+
 
