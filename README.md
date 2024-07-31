@@ -99,4 +99,19 @@ What I Learned: Namespaces, Local Vs. Global scope.
 
 Link to Work: https://replit.com/@masoudmashayekh/day-12-start#main.py
 
+Day 13/100: Debugging
+
+What I Did: Beginner - Debugging.
+
+What I Learned: Debugging.
+
+Link to Work:
+
+Day 14/100: Debugging
+
+What I Did: Beginner - Higher Lower Game Project.
+
+What I Learned: Function, Dictionary.
+
+Link to Work:https://replit.com/@masoudmashayekh/higher-lower-start#main.py
 
