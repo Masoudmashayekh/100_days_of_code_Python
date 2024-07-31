@@ -107,7 +107,7 @@ What I Learned: Debugging.
 
 Link to Work:
 
-Day 14/100: Debugging
+Day 14/100: Higher Lower Game
 
 What I Did: Beginner - Higher Lower Game Project.
 
