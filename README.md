@@ -115,3 +115,8 @@ What I Learned: Function, Dictionary.
 
 Link to Work:https://replit.com/@masoudmashayekh/higher-lower-start#main.py
 
+Day 15/100: The Coffee Machine
+What I Did: Intermediate - Local Development Environment Setup & the Coffee Machine
+What I Learned: Function, Dictionary, if, while loop
+Link to Work: https://rb.gy/uvz758
+
