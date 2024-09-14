@@ -1,4 +1,4 @@
-100 Days of Code (Python)
+# 100 Days of Code (Python)
 
 # Day 1/100: Band Name Generator
 
