@@ -161,7 +161,7 @@ What I Did: Intermediate - Build the Snake Game Part 1: Animation & Coordinates
 
 What I Learned:  Turtle Graphics, Event Listeners state and Multiple Instances, Create class, Use screen.tracer(), screen.update(), time.sleep()
 
-Link to Work: https://shorturl.at/ROEzg
+Link to Work: https://shorturl.at/PuzXP
 
 # Day 21/100: Build the Snake Game Part 2
 
