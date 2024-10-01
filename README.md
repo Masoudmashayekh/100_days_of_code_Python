@@ -171,3 +171,11 @@ What I Learned: Inheritance & List Slicing
 
 Link to Work: https://shorturl.at/oSYwv
 
+# Day 22/100: Build Pong Game
+
+What I Did: Intermediate - Build Pong: The Famous Arcade Game
+
+What I Learned: Learn more how to use class and Inheritance
+
+Link to Work:  https://shorturl.at/PbsC5
+
