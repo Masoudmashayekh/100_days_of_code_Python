@@ -180,7 +180,10 @@ What I Learned: Learn more how to use class and Inheritance
 Link to Work:  https://shorturl.at/PbsC5
 
 # Day 23/100: The Turtle Crossing Capstone Project
+
 What I Did: Intermediate - The Turtle Crossing Capstone Project
+
 What I Learned: Learn more how to use class and Inheritance
+
 Link to Work: https://shorturl.at/8DGcL
 
