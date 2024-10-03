@@ -17,6 +17,5 @@ for name in name_list:
     # strip \n
     stripped_name = name.strip()
     new_letter = letter_contents.replace(PLACEHOLDER, stripped_name)
-    # docx => Word format
     with open(f"./Output/ReadyToSend/Letter_for_{stripped_name}.txt", "w") as completed_letter:
         completed_letter.write(new_letter)
