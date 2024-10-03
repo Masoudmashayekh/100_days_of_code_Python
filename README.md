@@ -187,3 +187,10 @@ What I Learned: Learn more how to use class and Inheritance
 
 Link to Work: https://shorturl.at/8DGcL
 
+# Day 24/100: The Mail Merge Challenge
+
+What I Did: Intermediate - Files, Directories and Paths
+
+What I Learned: Working with Local files and Directories
+
+Link to Work: https://shorturl.at/QROlA
