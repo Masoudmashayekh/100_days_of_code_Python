@@ -203,3 +203,11 @@ What I Did: Intermediate - Working with CSV Data and the Pandas Library
 What I Learned: Working with CSV Data and the Pandas Library
 
 Link to Work: https://shorturl.at/OHwrc
+
+# Day 26/100: NATO Alphabet
+
+What I Did: Intermediate - List Comprehension and the NATO Alphabet
+
+What I Learned: List Comprehension, Dictionary Comprehension, Pandas Library
+
+Link to Work: https://shorturl.at/ZLaeI
