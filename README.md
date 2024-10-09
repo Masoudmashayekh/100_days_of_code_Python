@@ -211,3 +211,12 @@ What I Did: Intermediate - List Comprehension and the NATO Alphabet
 What I Learned: List Comprehension, Dictionary Comprehension, Pandas Library
 
 Link to Work: https://shorturl.at/ZLaeI
+
+
+# Day 27/100: Miles to Kilometer Converter
+
+What I Did: Intermediate - Tkinter, *args, **kwargs and Creating GUI Programs
+
+What I Learned: Tkinter, *args, **kwargs and Creating GUI Programs
+
+Link to Work: https://shorturl.at/jF1XV
