@@ -220,3 +220,11 @@ What I Did: Intermediate - Tkinter, *args, **kwargs and Creating GUI Programs
 What I Learned: Tkinter, *args, **kwargs and Creating GUI Programs
 
 Link to Work: https://shorturl.at/jF1XV
+
+# Day 28/100: Pomodoro GUI Application
+
+What I Did: Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+
+What I Learned: Tkinter, *args, **kwargs and Creating GUI Programs
+
+Link to Work: https: https://shorturl.at/PdCXg
