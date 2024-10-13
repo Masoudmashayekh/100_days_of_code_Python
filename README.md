@@ -228,3 +228,17 @@ What I Did: Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Applicat
 What I Learned: Tkinter, *args, **kwargs and Creating GUI Programs
 
 Link to Work: https: https://shorturl.at/PdCXg
+
+# Day 29/100:  Password Manager
+
+What I Did: Intermediate - Building a Password Manager GUI App with Tkinter
+
+What I Learned: Tkinter, Dialog Boxs and Pop_up in Tkinter, pyperclip
+
+Link to Work: https: https://shorturl.at/AtsXZ
+
+Useful links:https://tkdocs.com/tutorial/canvas.html
+https://www.w3schools.com/python/python_file_write.asp
+https://tkdocs.com/tutorial/widgets.html#entry
+https://pypi.org/project/pyperclip/
+https://www.w3schools.com/python/ref_string_join.asp
