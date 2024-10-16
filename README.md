@@ -246,3 +246,15 @@ https://tkdocs.com/tutorial/widgets.html#entry
 https://pypi.org/project/pyperclip/
 
 https://www.w3schools.com/python/ref_string_join.asp
+
+# Day 30/100: Improving Password Manager
+
+What I Did:  Intermediate - Errors, Exceptions and JSON Data: Improving the Password
+
+What I Learned: Errors, Exceptions and JSON Data
+
+Link to Work: https: https://shorturl.at/2IwDX
+
+Useful links: 
+
+json: https://docs.python.org/3/library/json.html
