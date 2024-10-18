@@ -258,3 +258,22 @@ Link to Work: https: https://shorturl.at/2IwDX
 Useful links: 
 
 json: https://docs.python.org/3/library/json.html
+
+
+# Day 31/100: Flash Card App Capstone Project
+
+What I Did: Intermediate - Flash Card App Capstone Project
+
+What I Learned: review 
+
+Link to Work: https://shorturl.at/4cmwD
+
+Useful links: https://shorturl.at/lMAj5
+
+https://shorturl.at/6sUJK
+
+https://shorturl.at/z2cuS
+
+https://www.w3schools.com/python/ref_list_remove.asp
+
+https://shorturl.at/3h9aG
