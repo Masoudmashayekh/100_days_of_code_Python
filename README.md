@@ -277,3 +277,15 @@ https://shorturl.at/z2cuS
 https://www.w3schools.com/python/ref_list_remove.asp
 
 https://shorturl.at/3h9aG
+
+# Day 32/100:  Automated Birthday Wisher Project
+
+What I Did: Intermediate+ Send Email (smtplib) & Manage Dates (datetime)
+
+What I Learned: Email SMTP and datetime module
+
+Link to Work: https://shorturl.at/OyqZN
+
+Useful links: https://docs.python.org/3/library/smtplib.html
+
+https://docs.python.org/3/library/datetime.html
