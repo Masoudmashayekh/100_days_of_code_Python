@@ -294,7 +294,7 @@ https://docs.python.org/3/library/datetime.html
 
 What I Did: Intermediate+ API Endpoints & API Parameters - ISS Overhead Notifier
 
-What I Learned: API Endpoints & API Parameter, Email SMTP and datetime module, HTTP Codes
+What I Learned: Application Programming Interfaces(APIs) Endpoints & API Parameter, Email SMTP and datetime module, HTTP Codes
 
 Link to Work: https://shorturl.at/5e0fL
 
