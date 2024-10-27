@@ -289,3 +289,35 @@ Link to Work: https://shorturl.at/OyqZN
 Useful links: https://docs.python.org/3/library/smtplib.html
 
 https://docs.python.org/3/library/datetime.html
+
+# Day 33/100: ISS Overhead Notifier
+
+What I Did: Intermediate+ API Endpoints & API Parameters - ISS Overhead Notifier
+
+What I Learned: API Endpoints & API Parameter, Email SMTP and datetime module, HTTP Codes
+
+Link to Work: https://shorturl.at/5e0fL
+
+Useful links: 
+
+https://en.wikipedia.org/wiki/International_Space_Station
+
+https://en.wikipedia.org/wiki/API
+
+http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+
+https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+
+https://www.webfx.com/web-development/glossary/http-status-codes/
+
+https://www.latlong.net/Show-Latitude-Longitude.html
+
+https://docs.python-requests.org/en/latest/
+
+https://kanye.rest/
+
+https://sunrise-sunset.org/api
+
+https://www.w3schools.com/python/ref_string_split.asp
+
+https://www.latlong.net/
