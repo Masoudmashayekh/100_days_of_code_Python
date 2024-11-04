@@ -321,3 +321,27 @@ https://sunrise-sunset.org/api
 https://www.w3schools.com/python/ref_string_split.asp
 
 https://www.latlong.net/
+
+# Day 34/100: Quiz App
+
+What I Did: Intermediate+ API Practice - Creating a GUI Quiz App
+
+What I Learned: Application Programming Interfaces(APIs), Unescaping HTML entities, Type hints and Arrows
+
+Link to Work: https://shorturl.at/mOUsC
+
+Useful links: 
+
+https://opentdb.com/
+
+https://www.w3schools.com/html/html_entities.asp
+
+https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string
+
+https://www.freeformatter.com/html-escape.html
+
+https://stackoverflow.com/questions/53580507/disable-enable-button-in-tkinter
+
+https://www.google.com/search?q=how+to+get+tkinter+text+in+canvas+to+wrap&oq=how+to+get+tkinter+text+in+canvas+to+wrap&aqs=chrome..69i57j33.7303j0j1&sourceid=chrome&ie=UTF-8
+
+
