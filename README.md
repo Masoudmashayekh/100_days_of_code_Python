@@ -345,3 +345,41 @@ https://stackoverflow.com/questions/53580507/disable-enable-button-in-tkinter
 https://www.google.com/search?q=how+to+get+tkinter+text+in+canvas+to+wrap&oq=how+to+get+tkinter+text+in+canvas+to+wrap&aqs=chrome..69i57j33.7303j0j1&sourceid=chrome&ie=UTF-8
 
 
+
+# Day 35/100: Rain Alert
+
+What I Did: Intermediate+ Keys, Authentication & Environment Variables: Send SMS
+
+What I Learned: API Keys, Authentication & Environment Variables, Send SMS
+
+Link to Work: https://shorturl.at/4BjRX
+
+Useful links: 
+
+https://home.openweathermap.org/users/sign_up
+
+https://openweathermap.org/current
+
+https://www.latlong.net/
+
+https://jsonviewer.stack.hu/
+
+https://openweathermap.org/forecast5
+
+https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2
+
+https://www.ventusky.com/
+
+https://stackoverflow.com/questions/509211/how-slicing-in-python-works
+
+https://login.twilio.com/u/signup?state=hKFo2SB3aERwVFJfSDlQX2FpNkItVVpVSk5ISVVtMDZEaHVLaqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDlqZlRFT1hUMkVUR19ValFVZHZKNXZ6OTFSWUdlbGE4o2NpZNkgTW05M1lTTDVSclpmNzdobUlKZFI3QktZYjZPOXV1cks
+
+https://www.twilio.com/docs/messaging/quickstart/python
+
+https://help.pythonanywhere.com/pages/TwilioBehindTheProxy/
+
+https://en.wikipedia.org/wiki/Environment_variable
+
+https://apilist.fun/
+
+
