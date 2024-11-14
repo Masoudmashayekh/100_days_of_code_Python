@@ -382,4 +382,22 @@ https://en.wikipedia.org/wiki/Environment_variable
 
 https://apilist.fun/
 
+# Day 36/100: Stock Trading News Alert Project
+
+What I Did: Intermediate+ Stock Trading News Alert Project
+
+What I Learned: API Keys, Authentication & Environment Variables, Send SMS
+
+Link to Work: https://shorturl.at/cOTjr
+
+Useful links: 
+
+https://www.tradingview.com/symbols/NASDAQ-TSLA/
+
+https://www.twilio.com/en-us
+
+https://newsapi.org/
+
+https://www.alphavantage.co/
+
 
