@@ -401,3 +401,23 @@ https://newsapi.org/
 https://www.alphavantage.co/
 
 
+
+# Day 37/100: Habit Tracking Project
+
+What I Did: Intermediate+ Habit Tracking Project: API Post Requests & Headers
+
+What I Learned: API Post Requests & Headers
+
+Link to Work: https://shorturl.at/YEkXf
+
+Useful links: 
+
+https://www.w3schools.com/python/python_datetime.asp
+
+https://requests.readthedocs.io/en/latest/api/
+
+https://docs.pixe.la/
+
+https://pixe.la/
+
+
