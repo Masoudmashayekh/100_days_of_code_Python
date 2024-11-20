@@ -421,3 +421,22 @@ https://docs.pixe.la/
 https://pixe.la/
 
 
+# Day 38/100: Workout Tracking
+
+What I Did: Intermediate+ Workout Tracking Using Google Sheets
+
+What I Learned: API Post Requests & Headers
+
+Link to Work: https://shorturl.at/q4jIr
+
+Useful links: 
+
+https://www.nutritionix.com/business/api
+
+https://docx.syndigo.com/developers
+
+https://sheety.co/
+
+
+
+
