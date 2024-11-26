@@ -437,6 +437,18 @@ https://docx.syndigo.com/developers
 
 https://sheety.co/
 
+# Day 39/100:  Part 1: Flight Deal Finder
+What I Did:  Intermediate+ Capstone Part 1: Flight Deal Finder
+What I Learned: API Post Requests & Headers, Use Class
+Link to Work: https://shorturl.at/eSTDH
+Useful links: 
+https://sheety.co/
+https://lnkd.in/dWA2GWwn
+https://lnkd.in/dFABESFn
+https://lnkd.in/dUYuWryX
+https://lnkd.in/dBKWp7jU
+https://lnkd.in/dH3uMztN
+https://lnkd.in/dX-XY5Nv
 
 
 
