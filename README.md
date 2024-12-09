@@ -456,6 +456,19 @@ https://lnkd.in/dUYuWryX
 
 https://lnkd.in/dBKWp7jU
 
+# Day 40/100: Part 2: Flight Deal Finder
+What I Did: Intermediate+ Capstone Part 2: Flight Deal Finder
+What I Learned: API Post Requests & Headers, Use Class
+Link to Work: https://shorturl.at/Iqmf2
+Useful links: 
+https://sheety.co/
+https://lnkd.in/dWA2GWwn
+https://lnkd.in/dFABESFn
+https://lnkd.in/dUYuWryX
+https://lnkd.in/dBKWp7jU
+https://lnkd.in/dH3uMztN
+https://lnkd.in/dX-XY5Nv
+
 https://lnkd.in/dH3uMztN
 
 https://lnkd.in/dX-XY5Nv
