@@ -483,5 +483,27 @@ https://lnkd.in/dH3uMztN
 
 https://lnkd.in/dX-XY5Nv
 
+# Day 41/100: Introduction to HTML
+
+What I Did: Web Foundation - Introduction to HTML
+
+What I Learned: Introduction to HTML
+
+Link to work: https://shorturl.at/Kwqc1
+
+Useful links: 
+
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server
+
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+https://www.diffchecker.com/
+
+
+
 
 
