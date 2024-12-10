@@ -503,6 +503,17 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
 https://www.diffchecker.com/
 
+# Day 42/100: Introduction to HTML
+
+What I Did: Web Foundation - Introduction to HTML
+
+What I Learned: HTML Boilerplate, List Elements, Nesting and Indentation, Anchor Elements, Image Elements
+
+Link to work: https://shorturl.at/Igo0p
+
+Useful links: 
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
 
 
 
