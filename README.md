@@ -515,6 +515,14 @@ Useful links:
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
+# Day 43/100: Introduction to CSS
+
+What I Did: Web Foundation - Introduction to CSS
+
+What I Learned: How to add CSS,CSS Selectors 
+
+Link to work: https://shorturl.at/W7AGF
+
 
 
 
