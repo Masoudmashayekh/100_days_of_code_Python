@@ -523,6 +523,24 @@ What I Learned: How to add CSS,CSS Selectors
 
 Link to work: https://shorturl.at/W7AGF
 
+# Day 44/100: Introduction to CSS
+
+What I Did: Web Foundation - Introduction to CSS
+
+What I Learned: CSS Color, Font properties, Inspection CSS, the CSS box Model-margin, padding and Border 
+
+Link to work: https://shorturl.at/iGhrN
+
+Useful links:
+
+https://chromewebstore.google.com/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
+
+https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
+
+
+
 
 
 
