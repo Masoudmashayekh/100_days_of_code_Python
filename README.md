@@ -539,6 +539,17 @@ https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 
+# Day 45/100: Web Scraping with Beautiful Soup
+
+What I Did: Intermediate+ Web Scraping with Beautiful Soup
+
+What I Learned:  use Beautiful Soup,Finding and Selecting Particular Elements with BeautifulSoup, Scraping a Live Website
+
+Link to work: https://shorturl.at/t7wRA
+
+Useful links:
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 
 
