@@ -551,6 +551,25 @@ Useful links:
 
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
+# Day 46/100: Create a Spotify Playlist
+
+What I Did: Intermediate+ Create a Spotify Playlist using the Musical Time Machine
+
+What I Learned: use Beautiful Soup,Finding and Selecting Particular Elements with BeautifulSoup, Scraping a Live Website,
+
+Link to work: https://shorturl.at/Bp2DT
+
+Useful links:
+
+https://spotipy.readthedocs.io/en/2.24.0/
+
+https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth
+
+https://developer.spotify.com/dashboard
+
+https://www.billboard.com/charts/hot-100/2000-08-12/
+
+
 
 
 
