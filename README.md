@@ -569,6 +569,28 @@ https://developer.spotify.com/dashboard
 
 https://www.billboard.com/charts/hot-100/2000-08-12/
 
+# Day 47/100: Amazon Price Tracker
+
+What I Did: Intermediate+ Create an Automated Amazon Price Tracker
+
+What I Learned: use Beautiful Soup,Finding and Selecting Particular Elements with BeautifulSoup, Scraping a Live Website, Email SMTP, .env file
+
+Link to work: https://shorturl.at/5Sjlu
+
+Useful links:
+
+https://www.w3schools.com/python/ref_string_split.asp
+
+https://pypi.org/project/python-dotenv/
+
+https://myhttpheader.com/
+
+https://stackoverflow.com/questions/6260457/using-headers-with-the-python-requests-librarys-get-method
+
+https://it.camelcamelcamel.com/
+
+
+
 
 
 
