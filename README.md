@@ -589,6 +589,30 @@ https://stackoverflow.com/questions/6260457/using-headers-with-the-python-reques
 
 https://it.camelcamelcamel.com/
 
+# Day 48/100: Game Playing Bot
+
+What I Did: Intermediate+ Selenium Webdriver Browser and Game Playing Bot
+
+What I Learned: Selenium Webdriver Browser,Finding and Selecting Particular Elements with Selenium Webdriver Browser
+
+Link to work: https://shorturl.at/uHj69
+
+Useful links:
+
+https://selenium-python.readthedocs.io/
+
+https://www.w3schools.com/xml/xpath_intro.asp
+
+https://www.python.org/
+
+https://www.selenium.dev/documentation/webdriver/elements/locators/
+
+https://www.w3schools.com/python/ref_string_split.asp
+
+https://www.w3schools.com/python/ref_string_strip.asp
+
+https://stackoverflow.com/questions/13293269/how-would-i-stop-a-while-loop-after-n-amount-of-time
+
 
 
 
