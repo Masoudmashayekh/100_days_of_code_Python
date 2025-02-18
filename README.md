@@ -613,6 +613,17 @@ https://www.w3schools.com/python/ref_string_strip.asp
 
 https://stackoverflow.com/questions/13293269/how-would-i-stop-a-while-loop-after-n-amount-of-time
 
+# Day 49/100: Automating Job Applications on LinkedIn
+
+What I Did: Intermediate+ Automating Job Applications on LinkedIn
+
+What I Learned: Selenium Webdriver Browser,Finding and Selecting Particular Elements with Selenium Webdriver Browser
+
+Link to work: https://shorturl.at/NwSyO
+
+Useful links:
+
+
 
 
 
