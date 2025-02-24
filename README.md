@@ -623,6 +623,16 @@ Link to work: https://shorturl.at/NwSyO
 
 Useful links:
 
+# Day 50/100: Auto Tinder Swiping Bot
+
+What I Did: Intermediate+ Auto Tinder Swiping Bot
+
+What I Learned: Selenium Webdriver Browser,Finding and Selecting Particular Elements with Selenium Webdriver Browser
+
+Link to work: https://shorturl.at/YCj16
+
+Useful links:
+
 
 
 
