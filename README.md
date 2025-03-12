@@ -635,6 +635,17 @@ Useful links:
 
 
 
+# Day 51/100: Internet Speed Twitter Complaint Bot
+
+What I Did: Intermediate + Internet Speed Twitter Complaint Bot
+
+What I Learned: Selenium Webdriver Browser, Finding and Selecting Particular Elements with Selenium Webdriver Browser
+
+Link to work: https://shorturl.at/2nXw7
+
+Useful links: https://www.speedtest.net/
+
+
 
 
 
