@@ -647,9 +647,13 @@ Useful links: https://www.speedtest.net/
 
 
 # Day 52/100: Instagram Follower Bot
+
 What I Did: Intermediate + Instagram Follower Bot
+
 What I Learned: Selenium Webdriver Browser, Finding and Selecting Particular Elements with Selenium Webdriver Browser
+
 Link to work: https://shorturl.at/Zjnvv
+
 Useful links: https://www.google.com/search?q=how+to+scroll+popup+selnium+python&oq=how+to+scroll+popup+selnium+python&aqs=chrome..69i57j0.19371j0j9&sourceid=chrome&ie=UTF-8
 https://stackoverflow.com/questions/38041974/selenium-scroll-inside-of-popup-div
 https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop
