@@ -659,6 +659,19 @@ https://stackoverflow.com/questions/38041974/selenium-scroll-inside-of-popup-div
 https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop
 https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollHeight
 
+# Day 53/100: Data Entry Job Automation
+
+What I Did: Intermediate+ Web Scraping Capstone - Data Entry Job Automation
+
+What I Learned: Selenium Webdriver Browser, Finding and Selecting Particular Elements with Selenium Webdriver Browser, BeautifulSoup
+
+Link to work: https://shorturl.at/a1TH0
+
+Useful links:
+
+https://docs.python.org/3/library/stdtypes.html#str.replace
+
+https://docs.python.org/3/library/stdtypes.html#str.strip
 
 
 
