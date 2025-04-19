@@ -673,6 +673,25 @@ https://docs.python.org/3/library/stdtypes.html#str.replace
 
 https://docs.python.org/3/library/stdtypes.html#str.strip
 
+# Day 54/100: Automating Job Applications on LinkedIn
+
+What I Did: Intermediate+ Introduction to Web Development with Flask
+
+What I Learned: Introduction to Web Development with Flask
+
+Link to work: https://shorturl.at/0f9cp
+
+Useful links:
+
+https://docs.python.org/3/library/__main__.html
+
+https://docs.python.org/3/library/stdtypes.html#special-attributes
+
+https://github.com/appbrewery/terminal-mac-cheatsheet
+
+https://flask.palletsprojects.com/en/stable/quickstart/
+
+https://pypi.org/project/Flask/
 
 
 
