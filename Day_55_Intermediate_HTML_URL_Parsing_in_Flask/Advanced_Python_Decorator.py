@@ -1,6 +1,3 @@
-# ********Day 55 Start**********
-
-# Advanced Python Decorator Functions
 
 class User:
     def __init__(self, name):
