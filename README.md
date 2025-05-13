@@ -694,6 +694,18 @@ https://flask.palletsprojects.com/en/stable/quickstart/
 https://pypi.org/project/Flask/
 
 
+# Day 55/100: Higher Lower Game
 
+What I Did: Intermediate+ HTML & URL Parsing in Flask and the Higher Lower Game
+
+What I Learned: Introduction to Web Development with Flask, HTML & URL Parsing in Flask
+
+Link to work: https://shorturl.at/tRcKy
+
+Useful links: https://flask.palletsprojects.com/en/stable/quickstart/#routing
+
+https://flask.palletsprojects.com/en/stable/quickstart/#variable-rules
+
+https://giphy.com/
 
 
