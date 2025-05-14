@@ -704,6 +704,22 @@ Link to work: https://shorturl.at/tRcKy
 
 Useful links: https://flask.palletsprojects.com/en/stable/quickstart/#routing
 
+
+# Day 56/100: Rendering HTML/Static files
+
+What I Did: Intermediate+ Rendering HTML/Static files and Using Website Templates
+
+What I Learned: Rendering HTML/Static Files and Using Website Templates
+
+Link to work: https://shorturl.at/WHI57
+
+Useful links: https://flask.palletsprojects.com/en/stable/quickstart/#rendering-templates
+
+https://html5up.net/
+
+https://html5up.net/
+
+https://angelabauer.github.io/cv/
 https://flask.palletsprojects.com/en/stable/quickstart/#variable-rules
 
 https://giphy.com/
