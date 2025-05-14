@@ -717,11 +717,9 @@ Useful links: https://flask.palletsprojects.com/en/stable/quickstart/#rendering-
 
 https://html5up.net/
 
-https://html5up.net/
-
 https://angelabauer.github.io/cv/
 https://flask.palletsprojects.com/en/stable/quickstart/#variable-rules
-
+https://unsplash.com/
 https://giphy.com/
 
 
