@@ -726,3 +726,14 @@ https://unsplash.com/
 https://giphy.com/
 
 
+
+Day 57/100: Dynamic HTML pages with Jinja
+What I Did: Intermediate+ Templating with Jinja in Flask Applications
+
+What I Learned: URL Building and Templating with Jinja
+
+Link to work: 
+
+Useful links: 
+
+
