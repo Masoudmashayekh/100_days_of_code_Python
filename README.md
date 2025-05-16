@@ -727,10 +727,10 @@ https://giphy.com/
 
 
 
-Day 57/100: Dynamic HTML pages with Jinja
+# Day 57/100: Dynamic HTML pages with Jinja
 What I Did: Intermediate+ Templating with Jinja in Flask Applications
 
-What I Learned: URL Building and Templating with Jinja
+What I Learned: URL Building and Templating with Jinja, I write some code in my server and send it over to template to render ex.({{year}}), 
 
 Link to work: 
 
