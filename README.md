@@ -732,7 +732,7 @@ What I Did: Intermediate+ Templating with Jinja in Flask Applications
 
 What I Learned: URL Building and Templating with Jinja, I write some code in my server and send it over to template to render ex.({{year}}), 
 
-Link to work: 
+Link to work: https://shorturl.at/JD5es
 
 Useful links: 
 https://jinja.palletsprojects.com/en/stable/templates/
