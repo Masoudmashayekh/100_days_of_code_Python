@@ -1,2 +1,4 @@
 class Post:
-    pass
+
+    def masoud(self):
+        print("Hello world")
