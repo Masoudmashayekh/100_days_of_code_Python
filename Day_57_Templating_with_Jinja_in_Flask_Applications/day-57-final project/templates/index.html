@@ -17,7 +17,7 @@
                 <div class="card">
                     <h2>{{blog_post["title"]}}</h2>
                     <p class="text"> {{blog_post["subtitle"]}} </p>
-                    <a href="#">Read</a>
+                    <a href="{{url_for('show_post', index=1)}}">Read</a>
                 </div>
             </div>
         {% elif blog_post["id"] == 2: %}
@@ -25,7 +25,7 @@
                 <div class="card">
                     <h2>{{blog_post["title"]}}</h2>
                     <p class="text">{{blog_post["subtitle"]}} </p>
-                    <a href="#">Read</a>
+                    <a href="{{url_for('show_post', index=2)}}">Read</a>
                 </div>
             </div>
         {% else: %}
@@ -33,7 +33,7 @@
                 <div class="card">
                     <h2>{{blog_post["title"]}}</h2>
                     <p class="text">{{blog_post["subtitle"]}} </p>
-                    <a href="#">Read</a>
+                    <a href="{{url_for('show_post', index=3)}}">Read</a>
                 </div>
             </div>
         {% endif %}

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4be211b7-e4df-4b65-a97b-2289ad984551" name="Changes" comment="Jinja in Flask Applications" />
+    <list default="true" id="4be211b7-e4df-4b65-a97b-2289ad984551" name="Changes" comment="Jinja in Flask Applications">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/post.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/templates/post.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747502658128</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Jinja in Flask Applications">
+      <option name="closed" value="true" />
+      <created>1747502877591</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747502877591</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
