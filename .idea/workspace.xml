@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4be211b7-e4df-4b65-a97b-2289ad984551" name="Changes" comment="Jinja in Flask Applications">
+      <change afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/templates/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Masoudmashayekh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Masoudmashayekh/100_days_of_code_Python.git&quot;,
+    &quot;accountId&quot;: &quot;52642fe8-09e4-4ae9-b4ce-5c4967162181&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2xBpGOHQ1PU9fFfIaaQJG4Jyalk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.draft.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.server.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/templates" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4be211b7-e4df-4b65-a97b-2289ad984551" name="Changes" comment="" />
+      <created>1747421224843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747421224843</updated>
+    </task>
+    <task id="LOCAL-00001" summary="kkk">
+      <option name="closed" value="true" />
+      <created>1747421437050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747421437050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Jinja in Flask Applications">
+      <option name="closed" value="true" />
+      <created>1747422194341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747422194341</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Jinja in Flask Applications">
+      <option name="closed" value="true" />
+      <created>1747422273081</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747422273081</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Jinja in Flask Applications">
+      <option name="closed" value="true" />
+      <created>1747422440229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747422440229</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Jinja in Flask Applications">
+      <option name="closed" value="true" />
+      <created>1747423130786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747423130786</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Jinja in Flask Applications">
+      <option name="closed" value="true" />
+      <created>1747426049304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747426049304</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Jinja in Flask Applications">
+      <option name="closed" value="true" />
+      <created>1747429565894</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747429565894</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Jinja in Flask Applications">
+      <option name="closed" value="true" />
+      <created>1747487267569</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747487267569</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kkk" />
+    <MESSAGE value="Jinja in Flask Applications" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jinja in Flask Applications" />
+  </component>
+</project>
