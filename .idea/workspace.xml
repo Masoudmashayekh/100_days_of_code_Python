@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4be211b7-e4df-4b65-a97b-2289ad984551" name="Changes" comment="Jinja in Flask Applications">
-      <change afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/templates/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day_57_Templating_with_Jinja_in_Flask_Applications/day-57-final project/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747487267569</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Jinja in Flask Applications">
+      <option name="closed" value="true" />
+      <created>1747490849133</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747490849133</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

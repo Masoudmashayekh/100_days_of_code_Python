@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Home</title>
     <link href="https://fonts.googleapis.com/css2?family=Raleway" rel="stylesheet">
     <link rel="stylesheet" href="../static/css/styles.css">
 </head>
@@ -11,23 +11,34 @@
     <div class="top">
         <div class="title"><h1>My Blog</h1></div>
     </div>
-    <div class="content">
-        <div class="card">
-            <h2>Just a blog post</h2>
-            <p class="text">Lorem ipsum dolor sit </p>
-            <a href="#">Read</a>
+    {% for blog_post in posts: %}
+        {% if blog_post["id"] == 1: %}
+            <div class="content">
+                <div class="card">
+                    <h2>{{blog_post["title"]}}</h2>
+                    <p class="text"> {{blog_post["subtitle"]}} </p>
+                    <a href="#">Read</a>
+                </div>
+            </div>
+        {% endif %}
+        <div class="content">
+            <div class="card">
+                <h2>Another blog post</h2>
+                <p class="text">Lorem ipsum dolor sit </p>
+                <a href="#">Read</a>
+            </div>
         </div>
-    </div>
-    <div class="content">
-        <div class="card">
-            <h2>Another blog post</h2>
-            <p class="text">Lorem ipsum dolor sit </p>
-            <a href="#">Read</a>
+        <div class="content">
+            <div class="card">
+                <h2>Another blog post</h2>
+                <p class="text">Lorem ipsum dolor sit </p>
+                <a href="#">Read</a>
+            </div>
         </div>
-    </div>
+    {% endfor %}
 </div>
 </body>
 <footer>
-    <p>Made with ♥️ in London.</p>
+    <p>Made with ♥️ in Italy.</p>
 </footer>
 </html>
