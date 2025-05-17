@@ -13,13 +13,13 @@ def home():
     return render_template("index.html", num=random_number, year=current_year)
 
 
-@app.route("/<name>")
-def age_gen(name):
+@app.route("/guess/<name>")
+def guess(name):
     response_age = requests.get(url=f"https://api.agify.io/?name={name}")
     response_gender = requests.get(url=f"https://api.genderize.io?name={name}")
     age = response_age.json()["age"]
     gender = response_gender.json()["gender"]
-    return render_template("page_1.html", age=age, gen=gender, name= name)
+    return render_template("guess.html", age=age, gen=gender, name= name)
 
 
 if __name__ == "__main__":

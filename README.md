@@ -735,5 +735,11 @@ What I Learned: URL Building and Templating with Jinja, I write some code in my 
 Link to work: 
 
 Useful links: 
+https://jinja.palletsprojects.com/en/stable/templates/
+https://flask.palletsprojects.com/en/stable/quickstart/#rendering-templates
+https://agify.io/
+https://flask.palletsprojects.com/en/stable/quickstart/#routing
+https://www.npoint.io/docs/c790b4d5cab58020d391
+https://www.npoint.io/
 
 
