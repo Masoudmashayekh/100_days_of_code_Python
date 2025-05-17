@@ -20,21 +20,23 @@
                     <a href="#">Read</a>
                 </div>
             </div>
+        {% elif blog_post["id"] == 2: %}
+            <div class="content">
+                <div class="card">
+                    <h2>{{blog_post["title"]}}</h2>
+                    <p class="text">Lorem ipsum dolor sit </p>
+                    <a href="#">Read</a>
+                </div>
+            </div>
+        {% else: %}
+            <div class="content">
+                <div class="card">
+                    <h2>{{blog_post["title"]}}</h2>
+                    <p class="text">Lorem ipsum dolor sit </p>
+                    <a href="#">Read</a>
+                </div>
+            </div>
         {% endif %}
-        <div class="content">
-            <div class="card">
-                <h2>Another blog post</h2>
-                <p class="text">Lorem ipsum dolor sit </p>
-                <a href="#">Read</a>
-            </div>
-        </div>
-        <div class="content">
-            <div class="card">
-                <h2>Another blog post</h2>
-                <p class="text">Lorem ipsum dolor sit </p>
-                <a href="#">Read</a>
-            </div>
-        </div>
     {% endfor %}
 </div>
 </body>
