@@ -1,6 +1,6 @@
 # 100 Days of Code (Python)
 
-# Day 1/100: Band Name Generator
+## Day 1/100: Band Name Generator
 
 What I Did: Beginner - Working with Variables in Python to Manage Data.
 
@@ -9,7 +9,7 @@ What I Learned: Variables, Input function, Print, String Manipulation.
 Link to Work: https://replit.com/@masoudmashayekh/band-name-generator-end?v=1
 
 
-# Day 2/100: Tip Calculator
+## Day 2/100: Tip Calculator
 
 What I Did: Beginner - Understanding Data Types and How to Manipulate Strings.
 
@@ -18,7 +18,7 @@ What I Learned: Data type, Numbers, Operations, Type conversion, f-Strings.
 Link to Work: https://replit.com/@masoudmashayekh/tip-calculator-start#main.py
 
 
-# Day 3/100: Treasure Island
+## Day 3/100: Treasure Island
 
 What I Did: Beginner - Control Flow and Logical Operators.
 
@@ -27,7 +27,7 @@ What I Learned: Conditional statements, Logical operators, Code Blocks and Scope
 Link to Work: https://replit.com/@masoudmashayekh/treasure-island-start
 
 
-# Day 4/100: Treasure Island
+## Day 4/100: Treasure Island
 
 What I Did: Beginner - Randomisation and Python Lists.
 
@@ -35,7 +35,7 @@ What I Learned: Randomisation and Python Lists.
 
 Link to Work: https://replit.com/@masoudmashayekh/rock-paper-scissors-start#main.py
 
-# Day 5/100: Create a Password Generator
+## Day 5/100: Create a Password Generator
 
 What I Did: Beginner - Python Loops.
 
@@ -43,7 +43,7 @@ What I Learned: For Loops, Range and Code Blocks.
 
 Link to Work: https://replit.com/@masoudmashayekh/password-generator-start#main.py
 
-# Day 6/100: Escaping the Maze
+## Day 6/100: Escaping the Maze
 
 What I Did: Beginner - Python Functions & Karel.
 
@@ -51,7 +51,7 @@ What I Learned: Functions, Code Blocks and while Loop.
 
 Link to Work: https://rb.gy/e2xyt8
 
-# Day 7/100: Hangman
+## Day 7/100: Hangman
 
 What I Did: Beginner - Hangman.
 
@@ -59,7 +59,7 @@ What I Learned: Review, for & while Loop, if/elif, Lists, strings, range, Module
 
 Link to Work: https://replit.com/@masoudmashayekh/Day-7-Hangman-5-Start#main.py
 
-# Day 8/100: Caesar Cipher
+## Day 8/100: Caesar Cipher
 
 What I Did: Beginner - Function Parameters & Caesar Cipher.
 
@@ -67,7 +67,7 @@ What I Learned: Function with inputs, Arguments & Parameters.
 
 Link to Work: https://replit.com/@masoudmashayekh/caesar-cipher-4-start#main.py
 
-# Day 9/100: The Secret Auction Program
+## Day 9/100: The Secret Auction Program
 
 What I Did: Beginner - Dictionaries, Nesting and the Secret Auction.
 
@@ -75,7 +75,7 @@ What I Learned: Dictionaries and Nesting.
 
 Link to Work: https://replit.com/@masoudmashayekh/blind-auction-start#main.py
 
-# Day 10/100: Calculator
+## Day 10/100: Calculator
 
 What I Did: Beginner - Functions with Outputs.
 
@@ -83,7 +83,7 @@ What I Learned: Functions with Outputs.
 
 Link to Work: https://replit.com/@masoudmashayekh/calculator-start#main.py
 
-# Day 11/100: Blackjack game
+## Day 11/100: Blackjack game
 
 What I Did: Beginner - The Blackjack Capstone Project.
 
@@ -91,7 +91,7 @@ What I Learned: Review, for & while Loop, if/elif, Lists, strings, range, Module
 
 Link to Work: https://replit.com/@masoudmashayekh/blackjack-start#main.py
 
-# Day 12/100: Guessing Game
+## Day 12/100: Guessing Game
 
 What I Did: Beginner - Scope & Number Guessing Game.
 
@@ -99,7 +99,7 @@ What I Learned: Namespaces, Local Vs. Global scope.
 
 Link to Work: https://replit.com/@masoudmashayekh/day-12-start#main.py
 
-# Day 13/100: Debugging
+## Day 13/100: Debugging
 
 What I Did: Beginner - Debugging.
 
@@ -107,7 +107,7 @@ What I Learned: Debugging.
 
 Link to Work:
 
-# Day 14/100: Higher Lower Game
+## Day 14/100: Higher Lower Game
 
 What I Did: Beginner - Higher Lower Game Project.
 
@@ -115,7 +115,7 @@ What I Learned: Function, Dictionary.
 
 Link to Work:https://replit.com/@masoudmashayekh/higher-lower-start#main.py
 
-# Day 15/100: The Coffee Machine
+## Day 15/100: The Coffee Machine
 
 What I Did: Intermediate - Local Development Environment Setup & the Coffee Machine
 
@@ -123,7 +123,7 @@ What I Learned: Function, Dictionary, if, while loop
 
 Link to Work: https://rb.gy/uvz758
 
-# Day 16/100: Object Oriented Programming (OOP)
+## Day 16/100: Object Oriented Programming (OOP)
 
 What I Did: Intermediate - Object Oriented Programming (OOP)
 
@@ -131,7 +131,7 @@ What I Learned: Object Oriented Programming (OOP)
 
 Link to Work: https://rb.gy/kzk1oh
 
-# Day 17/100: The Quiz Project & the Benefits of OOP
+## Day 17/100: The Quiz Project & the Benefits of OOP
 
 What I Did: Intermediate - The Quiz Project & the Benefits of OOP
 
@@ -139,7 +139,7 @@ What I Learned: Object Oriented Programming (OOP), Create class
 
 Link to Work: https://rb.gy/y29tu6
 
-# Day 18/100: Turtle & the Graphical User Interface (GUI)
+## Day 18/100: Turtle & the Graphical User Interface (GUI)
 
 What I Did: Intermediate - Turtle & the Graphical User Interface (GUI)
 
@@ -147,7 +147,7 @@ What I Learned: How to use Turtle & the Graphical User Interface (GUI), TK color
 
 Link to Work: https://shorturl.at/bZLu7
 
-# Day 19/100: Turtle Race and Etch-a-Sketch
+## Day 19/100: Turtle Race and Etch-a-Sketch
 
 What I Did: Intermediate - Instances, State and Higher Order Functions
 
@@ -155,7 +155,7 @@ What I Learned: More Turtle Graphics, Event Listeners state and Multiple Instanc
 
 Link to Work: https://shorturl.at/Myag2
 
-# Day 20/100: Build the Snake Game Part 1
+## Day 20/100: Build the Snake Game Part 1
 
 What I Did: Intermediate - Build the Snake Game Part 1: Animation & Coordinates
 
@@ -163,7 +163,7 @@ What I Learned:  Turtle Graphics, Event Listeners state and Multiple Instances, 
 
 Link to Work: https://shorturl.at/PuzXP
 
-# Day 21/100: Build the Snake Game Part 2
+## Day 21/100: Build the Snake Game Part 2
 
 What I Did: Intermediate - Build the Snake Game Part 2: Inheritance & List Slicing
 
@@ -171,7 +171,7 @@ What I Learned: Inheritance & List Slicing
 
 Link to Work: https://shorturl.at/oSYwv
 
-# Day 22/100: Build Pong Game
+## Day 22/100: Build Pong Game
 
 What I Did: Intermediate - Build Pong: The Famous Arcade Game
 
@@ -179,7 +179,7 @@ What I Learned: Learn more how to use class and Inheritance
 
 Link to Work:  https://shorturl.at/PbsC5
 
-# Day 23/100: The Turtle Crossing Capstone Project
+## Day 23/100: The Turtle Crossing Capstone Project
 
 What I Did: Intermediate - The Turtle Crossing Capstone Project
 
@@ -187,7 +187,7 @@ What I Learned: Learn more how to use class and Inheritance
 
 Link to Work: https://shorturl.at/8DGcL
 
-# Day 24/100: The Mail Merge Challenge
+## Day 24/100: The Mail Merge Challenge
 
 What I Did: Intermediate - Files, Directories and Paths
 
@@ -196,7 +196,7 @@ What I Learned: Working with Local files and Directories
 Link to Work: https://shorturl.at/QROlA
 
 
-# Day 25/100: U.S. States Game
+## Day 25/100: U.S. States Game
 
 What I Did: Intermediate - Working with CSV Data and the Pandas Library
 
@@ -204,7 +204,7 @@ What I Learned: Working with CSV Data and the Pandas Library
 
 Link to Work: https://shorturl.at/OHwrc
 
-# Day 26/100: NATO Alphabet
+## Day 26/100: NATO Alphabet
 
 What I Did: Intermediate - List Comprehension and the NATO Alphabet
 
@@ -213,7 +213,7 @@ What I Learned: List Comprehension, Dictionary Comprehension, Pandas Library
 Link to Work: https://shorturl.at/ZLaeI
 
 
-# Day 27/100: Miles to Kilometer Converter
+## Day 27/100: Miles to Kilometer Converter
 
 What I Did: Intermediate - Tkinter, *args, **kwargs and Creating GUI Programs
 
@@ -221,7 +221,7 @@ What I Learned: Tkinter, *args, **kwargs and Creating GUI Programs
 
 Link to Work: https://shorturl.at/jF1XV
 
-# Day 28/100: Pomodoro GUI Application
+## Day 28/100: Pomodoro GUI Application
 
 What I Did: Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 
@@ -229,7 +229,7 @@ What I Learned: Tkinter, *args, **kwargs and Creating GUI Programs
 
 Link to Work: https: https://shorturl.at/PdCXg
 
-# Day 29/100:  Password Manager
+## Day 29/100:  Password Manager
 
 What I Did: Intermediate - Building a Password Manager GUI App with Tkinter
 
@@ -247,7 +247,7 @@ https://pypi.org/project/pyperclip/
 
 https://www.w3schools.com/python/ref_string_join.asp
 
-# Day 30/100: Improving Password Manager
+## Day 30/100: Improving Password Manager
 
 What I Did:  Intermediate - Errors, Exceptions and JSON Data: Improving the Password
 
@@ -260,7 +260,7 @@ Useful links:
 json: https://docs.python.org/3/library/json.html
 
 
-# Day 31/100: Flash Card App Capstone Project
+## Day 31/100: Flash Card App Capstone Project
 
 What I Did: Intermediate - Flash Card App Capstone Project
 
@@ -278,7 +278,7 @@ https://www.w3schools.com/python/ref_list_remove.asp
 
 https://shorturl.at/3h9aG
 
-# Day 32/100:  Automated Birthday Wisher Project
+## Day 32/100:  Automated Birthday Wisher Project
 
 What I Did: Intermediate+ Send Email (smtplib) & Manage Dates (datetime)
 
@@ -290,7 +290,7 @@ Useful links: https://docs.python.org/3/library/smtplib.html
 
 https://docs.python.org/3/library/datetime.html
 
-# Day 33/100: ISS Overhead Notifier
+## Day 33/100: ISS Overhead Notifier
 
 What I Did: Intermediate+ API Endpoints & API Parameters - ISS Overhead Notifier
 
@@ -322,7 +322,7 @@ https://www.w3schools.com/python/ref_string_split.asp
 
 https://www.latlong.net/
 
-# Day 34/100: Quiz App
+## Day 34/100: Quiz App
 
 What I Did: Intermediate+ API Practice - Creating a GUI Quiz App
 
@@ -346,7 +346,7 @@ https://www.google.com/search?q=how+to+get+tkinter+text+in+canvas+to+wrap&oq=how
 
 
 
-# Day 35/100: Rain Alert
+## Day 35/100: Rain Alert
 
 What I Did: Intermediate+ Keys, Authentication & Environment Variables: Send SMS
 
@@ -382,7 +382,7 @@ https://en.wikipedia.org/wiki/Environment_variable
 
 https://apilist.fun/
 
-# Day 36/100: Stock Trading News Alert Project
+## Day 36/100: Stock Trading News Alert Project
 
 What I Did: Intermediate+ Stock Trading News Alert Project
 
@@ -402,7 +402,7 @@ https://www.alphavantage.co/
 
 
 
-# Day 37/100: Habit Tracking Project
+## Day 37/100: Habit Tracking Project
 
 What I Did: Intermediate+ Habit Tracking Project: API Post Requests & Headers
 
@@ -421,7 +421,7 @@ https://docs.pixe.la/
 https://pixe.la/
 
 
-# Day 38/100: Workout Tracking
+## Day 38/100: Workout Tracking
 
 What I Did: Intermediate+ Workout Tracking Using Google Sheets
 
@@ -437,7 +437,7 @@ https://docx.syndigo.com/developers
 
 https://sheety.co/
 
-# Day 39/100:  Part 1: Flight Deal Finder
+## Day 39/100:  Part 1: Flight Deal Finder
 What I Did:  Intermediate+ Capstone Part 1: Flight Deal Finder
 
 What I Learned: API Post Requests & Headers, Use Class
@@ -456,7 +456,7 @@ https://lnkd.in/dUYuWryX
 
 https://lnkd.in/dBKWp7jU
 
-# Day 40/100: Part 2: Flight Deal Finder
+## Day 40/100: Part 2: Flight Deal Finder
 What I Did: Intermediate+ Capstone Part 2: Flight Deal Finder
 
 What I Learned: API Post Requests & Headers, Use Class
@@ -483,7 +483,7 @@ https://lnkd.in/dH3uMztN
 
 https://lnkd.in/dX-XY5Nv
 
-# Day 41/100: Introduction to HTML
+## Day 41/100: Introduction to HTML
 
 What I Did: Web Foundation - Introduction to HTML
 
@@ -503,7 +503,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
 https://www.diffchecker.com/
 
-# Day 42/100: Introduction to HTML
+## Day 42/100: Introduction to HTML
 
 What I Did: Web Foundation - Introduction to HTML
 
@@ -515,7 +515,7 @@ Useful links:
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
-# Day 43/100: Introduction to CSS
+## Day 43/100: Introduction to CSS
 
 What I Did: Web Foundation - Introduction to CSS
 
@@ -523,7 +523,7 @@ What I Learned: How to add CSS,CSS Selectors
 
 Link to work: https://shorturl.at/W7AGF
 
-# Day 44/100: Introduction to CSS
+## Day 44/100: Introduction to CSS
 
 What I Did: Web Foundation - Introduction to CSS
 
@@ -539,7 +539,7 @@ https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 
-# Day 45/100: Web Scraping with Beautiful Soup
+## Day 45/100: Web Scraping with Beautiful Soup
 
 What I Did: Intermediate+ Web Scraping with Beautiful Soup
 
@@ -551,7 +551,7 @@ Useful links:
 
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
-# Day 46/100: Create a Spotify Playlist
+## Day 46/100: Create a Spotify Playlist
 
 What I Did: Intermediate+ Create a Spotify Playlist using the Musical Time Machine
 
@@ -569,7 +569,7 @@ https://developer.spotify.com/dashboard
 
 https://www.billboard.com/charts/hot-100/2000-08-12/
 
-# Day 47/100: Amazon Price Tracker
+## Day 47/100: Amazon Price Tracker
 
 What I Did: Intermediate+ Create an Automated Amazon Price Tracker
 
@@ -589,7 +589,7 @@ https://stackoverflow.com/questions/6260457/using-headers-with-the-python-reques
 
 https://it.camelcamelcamel.com/
 
-# Day 48/100: Game Playing Bot
+## Day 48/100: Game Playing Bot
 
 What I Did: Intermediate+ Selenium Webdriver Browser and Game Playing Bot
 
@@ -613,7 +613,7 @@ https://www.w3schools.com/python/ref_string_strip.asp
 
 https://stackoverflow.com/questions/13293269/how-would-i-stop-a-while-loop-after-n-amount-of-time
 
-# Day 49/100: Automating Job Applications on LinkedIn
+## Day 49/100: Automating Job Applications on LinkedIn
 
 What I Did: Intermediate+ Automating Job Applications on LinkedIn
 
@@ -623,7 +623,7 @@ Link to work: https://shorturl.at/NwSyO
 
 Useful links:
 
-# Day 50/100: Auto Tinder Swiping Bot
+## Day 50/100: Auto Tinder Swiping Bot
 
 What I Did: Intermediate+ Auto Tinder Swiping Bot
 
@@ -635,7 +635,7 @@ Useful links:
 
 
 
-# Day 51/100: Internet Speed Twitter Complaint Bot
+## Day 51/100: Internet Speed Twitter Complaint Bot
 
 What I Did: Intermediate + Internet Speed Twitter Complaint Bot
 
@@ -646,7 +646,7 @@ Link to work: https://shorturl.at/2nXw7
 Useful links: https://www.speedtest.net/
 
 
-# Day 52/100: Instagram Follower Bot
+## Day 52/100: Instagram Follower Bot
 
 What I Did: Intermediate + Instagram Follower Bot
 
@@ -659,7 +659,7 @@ https://stackoverflow.com/questions/38041974/selenium-scroll-inside-of-popup-div
 https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop
 https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollHeight
 
-# Day 53/100: Data Entry Job Automation
+## Day 53/100: Data Entry Job Automation
 
 What I Did: Intermediate+ Web Scraping Capstone - Data Entry Job Automation
 
@@ -673,7 +673,7 @@ https://docs.python.org/3/library/stdtypes.html#str.replace
 
 https://docs.python.org/3/library/stdtypes.html#str.strip
 
-# Day 54/100: Automating Job Applications on LinkedIn
+## Day 54/100: Automating Job Applications on LinkedIn
 
 What I Did: Intermediate+ Introduction to Web Development with Flask
 
@@ -694,7 +694,7 @@ https://flask.palletsprojects.com/en/stable/quickstart/
 https://pypi.org/project/Flask/
 
 
-# Day 55/100: Higher Lower Game
+## Day 55/100: Higher Lower Game
 
 What I Did: Intermediate+ HTML & URL Parsing in Flask and the Higher Lower Game
 
@@ -705,7 +705,7 @@ Link to work: https://shorturl.at/tRcKy
 Useful links: https://flask.palletsprojects.com/en/stable/quickstart/#routing
 
 
-# Day 56/100: Rendering HTML/Static files
+## Day 56/100: Rendering HTML/Static files
 
 What I Did: Intermediate+ Rendering HTML/Static files and Using Website Templates
 
@@ -727,7 +727,7 @@ https://giphy.com/
 
 
 
-# Day 57/100: Dynamic HTML pages with Jinja
+## Day 57/100: Dynamic HTML pages with Jinja
 What I Did: Intermediate+ Templating with Jinja in Flask Applications
 
 What I Learned: URL Building and Templating with Jinja, I write some code in my server and send it over to template to render ex.({{year}}), 
