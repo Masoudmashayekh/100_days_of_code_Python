@@ -734,6 +734,7 @@ What I Learned: URL Building and Templating with Jinja, I write some code in my 
 
 Link to work: https://shorturl.at/JD5es
 
+
 Useful links: 
 https://jinja.palletsprojects.com/en/stable/templates/
 
