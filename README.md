@@ -743,7 +743,7 @@ What I Did: Startup Website for TinDog - Web Foundation Bootstrap
 What I Learned: What is Bootstrap?, Bootstrap Layout, Bootstrap Components, Project - A Startup Website for TinDog
 
 Link to work:
-![github](/Day_58_Web_Foundation_Bootstrap/11.3%20TinDog%20Project/index.html)
+[github](/Day_58_Web_Foundation_Bootstrap/11.3%20TinDog%20Project/index.html)
 
 Useful links:
 
