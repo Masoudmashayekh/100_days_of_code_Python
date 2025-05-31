@@ -8,7 +8,6 @@ What I Learned: Variables, Input function, Print, String Manipulation.
 
 Link to Work: https://replit.com/@masoudmashayekh/band-name-generator-end?v=1
 
-
 ## Day 2/100: Tip Calculator
 
 What I Did: Beginner - Understanding Data Types and How to Manipulate Strings.
@@ -17,7 +16,6 @@ What I Learned: Data type, Numbers, Operations, Type conversion, f-Strings.
 
 Link to Work: https://replit.com/@masoudmashayekh/tip-calculator-start#main.py
 
-
 ## Day 3/100: Treasure Island
 
 What I Did: Beginner - Control Flow and Logical Operators.
@@ -25,7 +23,6 @@ What I Did: Beginner - Control Flow and Logical Operators.
 What I Learned: Conditional statements, Logical operators, Code Blocks and Scope.
 
 Link to Work: https://replit.com/@masoudmashayekh/treasure-island-start
-
 
 ## Day 4/100: Treasure Island
 
@@ -143,7 +140,7 @@ Link to Work: https://rb.gy/y29tu6
 
 What I Did: Intermediate - Turtle & the Graphical User Interface (GUI)
 
-What I Learned: How to use Turtle & the Graphical User Interface (GUI), TK color, basic import, Aliasing Modules, Install Modules, python tuple, use Colorgram package, review: (List, for loop, Random Module) 
+What I Learned: How to use Turtle & the Graphical User Interface (GUI), TK color, basic import, Aliasing Modules, Install Modules, python tuple, use Colorgram package, review: (List, for loop, Random Module)
 
 Link to Work: https://shorturl.at/bZLu7
 
@@ -159,7 +156,7 @@ Link to Work: https://shorturl.at/Myag2
 
 What I Did: Intermediate - Build the Snake Game Part 1: Animation & Coordinates
 
-What I Learned:  Turtle Graphics, Event Listeners state and Multiple Instances, Create class, Use screen.tracer(), screen.update(), time.sleep()
+What I Learned: Turtle Graphics, Event Listeners state and Multiple Instances, Create class, Use screen.tracer(), screen.update(), time.sleep()
 
 Link to Work: https://shorturl.at/PuzXP
 
@@ -177,7 +174,7 @@ What I Did: Intermediate - Build Pong: The Famous Arcade Game
 
 What I Learned: Learn more how to use class and Inheritance
 
-Link to Work:  https://shorturl.at/PbsC5
+Link to Work: https://shorturl.at/PbsC5
 
 ## Day 23/100: The Turtle Crossing Capstone Project
 
@@ -195,7 +192,6 @@ What I Learned: Working with Local files and Directories
 
 Link to Work: https://shorturl.at/QROlA
 
-
 ## Day 25/100: U.S. States Game
 
 What I Did: Intermediate - Working with CSV Data and the Pandas Library
@@ -212,12 +208,11 @@ What I Learned: List Comprehension, Dictionary Comprehension, Pandas Library
 
 Link to Work: https://shorturl.at/ZLaeI
 
-
 ## Day 27/100: Miles to Kilometer Converter
 
-What I Did: Intermediate - Tkinter, *args, **kwargs and Creating GUI Programs
+What I Did: Intermediate - Tkinter, \*args, \*\*kwargs and Creating GUI Programs
 
-What I Learned: Tkinter, *args, **kwargs and Creating GUI Programs
+What I Learned: Tkinter, \*args, \*\*kwargs and Creating GUI Programs
 
 Link to Work: https://shorturl.at/jF1XV
 
@@ -225,11 +220,11 @@ Link to Work: https://shorturl.at/jF1XV
 
 What I Did: Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 
-What I Learned: Tkinter, *args, **kwargs and Creating GUI Programs
+What I Learned: Tkinter, \*args, \*\*kwargs and Creating GUI Programs
 
 Link to Work: https: https://shorturl.at/PdCXg
 
-## Day 29/100:  Password Manager
+## Day 29/100: Password Manager
 
 What I Did: Intermediate - Building a Password Manager GUI App with Tkinter
 
@@ -249,22 +244,21 @@ https://www.w3schools.com/python/ref_string_join.asp
 
 ## Day 30/100: Improving Password Manager
 
-What I Did:  Intermediate - Errors, Exceptions and JSON Data: Improving the Password
+What I Did: Intermediate - Errors, Exceptions and JSON Data: Improving the Password
 
 What I Learned: Errors, Exceptions and JSON Data
 
 Link to Work: https: https://shorturl.at/2IwDX
 
-Useful links: 
+Useful links:
 
 json: https://docs.python.org/3/library/json.html
-
 
 ## Day 31/100: Flash Card App Capstone Project
 
 What I Did: Intermediate - Flash Card App Capstone Project
 
-What I Learned: review 
+What I Learned: review
 
 Link to Work: https://shorturl.at/4cmwD
 
@@ -278,7 +272,7 @@ https://www.w3schools.com/python/ref_list_remove.asp
 
 https://shorturl.at/3h9aG
 
-## Day 32/100:  Automated Birthday Wisher Project
+## Day 32/100: Automated Birthday Wisher Project
 
 What I Did: Intermediate+ Send Email (smtplib) & Manage Dates (datetime)
 
@@ -298,7 +292,7 @@ What I Learned: Application Programming Interfaces(APIs) Endpoints & API Paramet
 
 Link to Work: https://shorturl.at/5e0fL
 
-Useful links: 
+Useful links:
 
 https://en.wikipedia.org/wiki/International_Space_Station
 
@@ -330,7 +324,7 @@ What I Learned: Application Programming Interfaces(APIs), Unescaping HTML entiti
 
 Link to Work: https://shorturl.at/mOUsC
 
-Useful links: 
+Useful links:
 
 https://opentdb.com/
 
@@ -344,8 +338,6 @@ https://stackoverflow.com/questions/53580507/disable-enable-button-in-tkinter
 
 https://www.google.com/search?q=how+to+get+tkinter+text+in+canvas+to+wrap&oq=how+to+get+tkinter+text+in+canvas+to+wrap&aqs=chrome..69i57j33.7303j0j1&sourceid=chrome&ie=UTF-8
 
-
-
 ## Day 35/100: Rain Alert
 
 What I Did: Intermediate+ Keys, Authentication & Environment Variables: Send SMS
@@ -354,7 +346,7 @@ What I Learned: API Keys, Authentication & Environment Variables, Send SMS
 
 Link to Work: https://shorturl.at/4BjRX
 
-Useful links: 
+Useful links:
 
 https://home.openweathermap.org/users/sign_up
 
@@ -390,7 +382,7 @@ What I Learned: API Keys, Authentication & Environment Variables, Send SMS
 
 Link to Work: https://shorturl.at/cOTjr
 
-Useful links: 
+Useful links:
 
 https://www.tradingview.com/symbols/NASDAQ-TSLA/
 
@@ -400,8 +392,6 @@ https://newsapi.org/
 
 https://www.alphavantage.co/
 
-
-
 ## Day 37/100: Habit Tracking Project
 
 What I Did: Intermediate+ Habit Tracking Project: API Post Requests & Headers
@@ -410,7 +400,7 @@ What I Learned: API Post Requests & Headers
 
 Link to Work: https://shorturl.at/YEkXf
 
-Useful links: 
+Useful links:
 
 https://www.w3schools.com/python/python_datetime.asp
 
@@ -420,7 +410,6 @@ https://docs.pixe.la/
 
 https://pixe.la/
 
-
 ## Day 38/100: Workout Tracking
 
 What I Did: Intermediate+ Workout Tracking Using Google Sheets
@@ -429,7 +418,7 @@ What I Learned: API Post Requests & Headers
 
 Link to Work: https://shorturl.at/q4jIr
 
-Useful links: 
+Useful links:
 
 https://www.nutritionix.com/business/api
 
@@ -437,14 +426,15 @@ https://docx.syndigo.com/developers
 
 https://sheety.co/
 
-## Day 39/100:  Part 1: Flight Deal Finder
-What I Did:  Intermediate+ Capstone Part 1: Flight Deal Finder
+## Day 39/100: Part 1: Flight Deal Finder
+
+What I Did: Intermediate+ Capstone Part 1: Flight Deal Finder
 
 What I Learned: API Post Requests & Headers, Use Class
 
 Link to Work: https://shorturl.at/eSTDH
 
-Useful links: 
+Useful links:
 
 https://sheety.co/
 
@@ -457,13 +447,14 @@ https://lnkd.in/dUYuWryX
 https://lnkd.in/dBKWp7jU
 
 ## Day 40/100: Part 2: Flight Deal Finder
+
 What I Did: Intermediate+ Capstone Part 2: Flight Deal Finder
 
 What I Learned: API Post Requests & Headers, Use Class
 
 Link to Work: https://shorturl.at/Iqmf2
 
-Useful links: 
+Useful links:
 
 https://sheety.co/
 
@@ -491,7 +482,7 @@ What I Learned: Introduction to HTML
 
 Link to work: https://shorturl.at/Kwqc1
 
-Useful links: 
+Useful links:
 
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server
 
@@ -511,7 +502,7 @@ What I Learned: HTML Boilerplate, List Elements, Nesting and Indentation, Anchor
 
 Link to work: https://shorturl.at/Igo0p
 
-Useful links: 
+Useful links:
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
@@ -519,7 +510,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 What I Did: Web Foundation - Introduction to CSS
 
-What I Learned: How to add CSS,CSS Selectors 
+What I Learned: How to add CSS,CSS Selectors
 
 Link to work: https://shorturl.at/W7AGF
 
@@ -527,7 +518,7 @@ Link to work: https://shorturl.at/W7AGF
 
 What I Did: Web Foundation - Introduction to CSS
 
-What I Learned: CSS Color, Font properties, Inspection CSS, the CSS box Model-margin, padding and Border 
+What I Learned: CSS Color, Font properties, Inspection CSS, the CSS box Model-margin, padding and Border
 
 Link to work: https://shorturl.at/iGhrN
 
@@ -543,7 +534,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 
 What I Did: Intermediate+ Web Scraping with Beautiful Soup
 
-What I Learned:  use Beautiful Soup,Finding and Selecting Particular Elements with BeautifulSoup, Scraping a Live Website
+What I Learned: use Beautiful Soup,Finding and Selecting Particular Elements with BeautifulSoup, Scraping a Live Website
 
 Link to work: https://shorturl.at/t7wRA
 
@@ -633,8 +624,6 @@ Link to work: https://shorturl.at/YCj16
 
 Useful links:
 
-
-
 ## Day 51/100: Internet Speed Twitter Complaint Bot
 
 What I Did: Intermediate + Internet Speed Twitter Complaint Bot
@@ -644,7 +633,6 @@ What I Learned: Selenium Webdriver Browser, Finding and Selecting Particular Ele
 Link to work: https://shorturl.at/2nXw7
 
 Useful links: https://www.speedtest.net/
-
 
 ## Day 52/100: Instagram Follower Bot
 
@@ -693,7 +681,6 @@ https://flask.palletsprojects.com/en/stable/quickstart/
 
 https://pypi.org/project/Flask/
 
-
 ## Day 55/100: Higher Lower Game
 
 What I Did: Intermediate+ HTML & URL Parsing in Flask and the Higher Lower Game
@@ -703,7 +690,6 @@ What I Learned: Introduction to Web Development with Flask, HTML & URL Parsing i
 Link to work: https://shorturl.at/tRcKy
 
 Useful links: https://flask.palletsprojects.com/en/stable/quickstart/#routing
-
 
 ## Day 56/100: Rendering HTML/Static files
 
@@ -725,17 +711,15 @@ https://unsplash.com/
 
 https://giphy.com/
 
-
-
 ## Day 57/100: Dynamic HTML pages with Jinja
+
 What I Did: Intermediate+ Templating with Jinja in Flask Applications
 
-What I Learned: URL Building and Templating with Jinja, I write some code in my server and send it over to template to render ex.({{year}}), 
+What I Learned: URL Building and Templating with Jinja, I write some code in my server and send it over to template to render ex.({{year}}),
 
 Link to work: https://shorturl.at/JD5es
 
-
-Useful links: 
+Useful links:
 https://jinja.palletsprojects.com/en/stable/templates/
 
 https://flask.palletsprojects.com/en/stable/quickstart/#rendering-templates
@@ -748,18 +732,19 @@ https://www.npoint.io/docs/c790b4d5cab58020d391
 
 https://www.npoint.io/
 
+## Day 58/100: Startup Website for TinDog
 
-##  Day 58/100: Web Foundation Bootstrap
-What I Did: 
-Web Foundation Bootstrap
+| <img src="./Day_58_Web_Foundation_Bootstrap/Project_images/Tindog_1.png" width="150"/> | <img src="./Day_58_Web_Foundation_Bootstrap/Project_images/Tindog_2.png" width="150"/> | <img src="./Day_58_Web_Foundation_Bootstrap/Project_images/Tindog_3.png" width="150"/> |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img src="image4.jpg" width="150"/>                                                    | <img src="image5.jpg" width="150"/>                                                    | <img src="image6.jpg" width="150"/>                                                    |
 
-Link to work: 
+What I Did: Startup Website for TinDog - Web Foundation Bootstrap
+
+What I Learned: What is Bootstrap?, Bootstrap Layout, Bootstrap Components, Project - A Startup Website for TinDog
+
+Link to work:
 ![github](/Day_58_Web_Foundation_Bootstrap/)
 
-
-Useful links: 
+Useful links:
 https://getbootstrap.com/
 Ex: https://appbrewery.github.io/bootstrap-layout/
-
-
-
