@@ -734,7 +734,7 @@ https://www.npoint.io/
 
 ## Day 58/100: Startup Website for TinDog
 
-| <img src="./Day_58_Web_Foundation_Bootstrap/Project_images/Tindog_1.png" width="200"/> | <img src="./Day_58_Web_Foundation_Bootstrap/Project_images/Tindog_2.png" width="200"/> | <img src="./Day_58_Web_Foundation_Bootstrap/Project_images/Tindog_3.png" width="200"/> |
+| <img src="./Day_58_Web_Foundation_Bootstrap/Project_images/Tindog_1.png" width="300"/> | <img src="./Day_58_Web_Foundation_Bootstrap/Project_images/Tindog_2.png" width="300"/> | <img src="./Day_58_Web_Foundation_Bootstrap/Project_images/Tindog_3.png" width="300"/> |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <img src="image4.jpg" width="150"/>                                                    | <img src="image5.jpg" width="150"/>                                                    | <img src="image6.jpg" width="150"/>                                                    |
 
