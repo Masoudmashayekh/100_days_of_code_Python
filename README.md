@@ -747,6 +747,20 @@ Link to work:
 
 Useful links:
 
-https://getbootstrap.com/
+- https://getbootstrap.com/
 
-Ex: https://appbrewery.github.io/bootstrap-layout/
+- Ex: https://appbrewery.github.io/bootstrap-layout/
+
+## Day 59/100:
+
+What I Did:
+
+What I Learned:
+
+Link to work:
+
+Useful links:
+
+- https://bootstrapmade.com/
+- https://getbootstrap.com/docs/5.0/examples/
+- https://www.creative-tim.com/bootstrap-themes/free
