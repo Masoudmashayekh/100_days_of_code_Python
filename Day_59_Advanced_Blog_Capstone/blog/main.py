@@ -1,4 +1,7 @@
 from flask import Flask, render_template
+import requests
+
+posts = requests.get("https://api.npoint.io/674f5423f73deab1e9a7").json()
 
 app = Flask(__name__)
 @app.route("/")
