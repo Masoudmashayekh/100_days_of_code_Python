@@ -777,3 +777,6 @@ Useful links:
 - https://api.npoint.io/674f5423f73deab1e9a7
 - https://www.npoint.io/docs/674f5423f73deab1e9a7
 - https://jinja.palletsprojects.com/en/stable/templates/#for
+
+
+## Day 60/100:
