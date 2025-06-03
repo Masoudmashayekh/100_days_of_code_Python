@@ -755,7 +755,7 @@ Useful links:
 
 | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/1.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/2.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/3.png" width="300"/> |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/4.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/5.png" width="300"/> | <img src="" width="300"/> |
+| <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/4.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/5.png" width="300"/> |  |
 
 What I Did: Advanced - Blog Capstone Project Part 2 - Adding Styling
 
