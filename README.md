@@ -762,7 +762,7 @@ What I Did: Advanced - Blog Capstone Project Part 2 - Adding Styling
 What I Learned: add new page, use API, linking all pages
 
 Link to work:
-
+[github](/Day_59_Advanced_Blog_Capstone/blog/)
 Useful links:
 
 - https://bootstrapmade.com/
