@@ -754,8 +754,8 @@ Useful links:
 ## Day 59/100: Blog Capstone Project
 
 | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/1.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/2.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/3.png" width="300"/> |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/4.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/5.png" width="300"/> |  |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/4.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/5.png" width="300"/> |                                                                                    |
 
 What I Did: Advanced - Blog Capstone Project Part 2 - Adding Styling
 
@@ -763,6 +763,7 @@ What I Learned: add new page, use API, linking all pages
 
 Link to work:
 [github](/Day_59_Advanced_Blog_Capstone/blog/)
+
 Useful links:
 
 - https://bootstrapmade.com/
@@ -776,4 +777,3 @@ Useful links:
 - https://api.npoint.io/674f5423f73deab1e9a7
 - https://www.npoint.io/docs/674f5423f73deab1e9a7
 - https://jinja.palletsprojects.com/en/stable/templates/#for
-
