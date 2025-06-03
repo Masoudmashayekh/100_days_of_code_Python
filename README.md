@@ -751,11 +751,15 @@ Useful links:
 
 - Ex: https://appbrewery.github.io/bootstrap-layout/
 
-## Day 59/100:
+## Day 59/100: Blog Capstone Project
 
-What I Did:
+| <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/1.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/2.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/3.png" width="300"/> |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img src="./Day_59_Advanced_Blog_Capstone/Project_images/4.png" width="300"/> | <img src="./Day_59_Advanced_Blog_Capstone/blog/Project_images/5.png" width="300"/> | <img src="" width="300"/> |
 
-What I Learned:
+What I Did: Advanced - Blog Capstone Project Part 2 - Adding Styling
+
+What I Learned: add new page, use API, linking all pages
 
 Link to work:
 
@@ -764,3 +768,12 @@ Useful links:
 - https://bootstrapmade.com/
 - https://getbootstrap.com/docs/5.0/examples/
 - https://www.creative-tim.com/bootstrap-themes/free
+- https://flask.palletsprojects.com/en/stable/quickstart/#static-files
+- https://jinja.palletsprojects.com/en/stable/templates/#include
+- https://flask.palletsprojects.com/en/stable/api/#flask.Flask.url_for
+- https://www.npoint.io/
+- https://jinja.palletsprojects.com/en/stable/templates/#variables
+- https://api.npoint.io/674f5423f73deab1e9a7
+- https://www.npoint.io/docs/674f5423f73deab1e9a7
+- https://jinja.palletsprojects.com/en/stable/templates/#for
+
