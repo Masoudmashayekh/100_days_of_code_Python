@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 import requests
 
 
@@ -21,10 +21,19 @@ def click_about():
     return render_template('about.html')
 
 
-@app.route('/contact')
+@app.route('/contact', methods=["POST", "GET"])
 def click_contact():
-    return render_template('contact.html')
+    if request.method == "POST":
+        data = request.form
+        print(data["name"])
+        print(data["email"])
+        print(data["phone"])
+        print(data["message"])
+        return render_template('contact.html', msg_sent= True)
+    return render_template('contact.html', msg_sent= False)
 
+
+    
 
 @app.route('/page/<int:n>')
 def goto(n):
@@ -35,9 +44,7 @@ def goto(n):
             return render_template('post.html', post=cur_page)
 
 
-@app.route("/form-entry", methods=["POST"])
-def recive_data():
-    return "Done"
+
 
 if __name__ == '__main__':
     app.run(debug=True)
