@@ -781,7 +781,7 @@ Useful links:
 
 ## Day 60/100:
 
-| <img src="./day-60-starting-files-blog-with-contact-form/Project_images/1.png" width="300"/> | <img src="./day-60-starting-files-blog-with-contact-form/Project_images/2.png" width="300"/> | <img src="./day-60-starting-files-blog-with-contact-form/Project_images/3.PNG" width="300"/> |
+| <img src="./Day-60-starting-files-blog-with-contact-form/Project_images/1.png" width="300"/> | <img src="./Day-60-starting-files-blog-with-contact-form/Project_images/2.png" width="300"/> | <img src="./Day-60-starting-files-blog-with-contact-form/Project_images/3.PNG" width="300"/> |
 
 What I Did: Advanced - Make POST Requests with Flask and HTML Forms
 
