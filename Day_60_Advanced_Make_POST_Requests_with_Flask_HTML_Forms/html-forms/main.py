@@ -7,12 +7,8 @@ def home():
 
 @app.route("/login", methods=["POST"])
 def recive_data():
-    pass
+    return "Success! Form submitted"
     
-
-
-
-
 if __name__  == "__main__":
     app.run(debug=True)
     
