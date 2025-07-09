@@ -1,7 +1,16 @@
 from flask import Flask, render_template, request
 import requests
+import os
+import smtplib
+
+from dotenv import load_dotenv
+
+load_dotenv()  # Load variables from .env file
 
 
+EMAIL = os.getenv("EMAIL")
+PASSWORD = os.getenv("PASSWORD")
+MY_EMAIL = os.getenv("MY_EMAIL")
 api = 'https://api.npoint.io/2378d3d8e0262f7e23d3'
 
 
@@ -48,3 +57,12 @@ def goto(n):
 
 if __name__ == '__main__':
     app.run(debug=True)
+    
+    
+    
+    
+with smtplib.SMTP("smtp.gmail.com", 587) as connection:
+        connection.starttls()
+        connection.login(EMAIL, PASSWORD)
+        connection.sendmail(from_addr=EMAIL, to_addrs=MY_EMAIL,
+                            msg=f"Subject: Happy Birthday {name}\n\n {ready_to_send}")
