@@ -806,7 +806,10 @@ Useful links:
 What I Did: Advanced - Building Advanced Forms with Flask-WTForms
 
 What I Learned:
+- Installing Flask-WTF
+
 
 Link to work:
 
 Useful links:
+- WTForms: https://wtforms.readthedocs.io/en/3.0.x/
