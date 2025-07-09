@@ -41,9 +41,9 @@ def click_contact():
 def send_email(name, email, phone, message):
     email_message = f"Subject:New Message\n\nName: {name}\nEmail: {email}\nPhone: {phone}\nMessage:{message}"
     with smtplib.SMTP("smtp.gmail.com", 587) as connection:
-            connection.starttls()
-            connection.login(EMAIL, PASSWORD)
-            connection.sendmail(from_addr=EMAIL, to_addrs=MY_EMAIL,msg= email_message)
+        connection.starttls()
+        connection.login(EMAIL, PASSWORD)
+        connection.sendmail(from_addr=EMAIL, to_addrs=MY_EMAIL,msg= email_message)
     
 
 @app.route('/page/<int:n>')
