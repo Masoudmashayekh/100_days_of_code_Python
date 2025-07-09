@@ -808,10 +808,13 @@ What I Did: Advanced - Building Advanced Forms with Flask-WTForms
 What I Learned:
 - Installing Flask-WTF
 - Creating Forms with Flask-WTF
-- 
+- Code Improvements for Our WTForms
+- Adding Validation to Forms with Flask-WTF
 
 Link to work:
 
 Useful links:
 - WTForms: https://wtforms.readthedocs.io/en/3.0.x/
 - Basic fields: https://wtforms.readthedocs.io/en/3.0.x/fields/#basic-fields
+- Validators: https://wtforms.readthedocs.io/en/3.0.x/crash_course/#validators
+- Displaying Errors: https://wtforms.readthedocs.io/en/3.0.x/crash_course/#displaying-errors
