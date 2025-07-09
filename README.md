@@ -810,8 +810,13 @@ What I Learned:
 - Creating Forms with Flask-WTF
 - Code Improvements for Our WTForms
 - Adding Validation to Forms with Flask-WTF
+- Receiving Form Data with WTForms
+- Inheriting Templates Using Jinja2
+- Using Bootstrap-Flask as an Inherited Template
+- Bootstrap-Flask Supports WTForms
 
 Link to work:
+[github](./Day_61_Building_Advanced_Forms_with_Flask_WTForms/)
 
 Useful links:
 - WTForms: https://wtforms.readthedocs.io/en/3.0.x/
