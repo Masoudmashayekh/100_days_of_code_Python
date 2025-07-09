@@ -779,7 +779,7 @@ Useful links:
 - https://jinja.palletsprojects.com/en/stable/templates/#for
 
 
-## Day 60/100:
+## Day 60/100: Make POST Requests with Flask and HTML Forms
 
 | <img src="./Day_60_Advanced_Make_POST_Requests_with_Flask_HTML_Forms/Project_images/1.png" width="250"/> | <img src="./Day_60_Advanced_Make_POST_Requests_with_Flask_HTML_Forms/Project_images/2.png" width="250"/> | <img src="./Day_60_Advanced_Make_POST_Requests_with_Flask_HTML_Forms/Project_images/3.PNG" width="250"/> |
 
@@ -799,3 +799,14 @@ Useful links:
 - https://www.w3schools.com/tags/att_form_method.asp
 - https://www.w3schools.com/tags/att_form_action.asp
 - https://flask.palletsprojects.com/en/stable/quickstart/#http-methods
+
+
+## Day 61/100: Building Advanced Forms with Flask-WTForms
+
+What I Did: Advanced - Building Advanced Forms with Flask-WTForms
+
+What I Learned:
+
+Link to work:
+
+Useful links:
