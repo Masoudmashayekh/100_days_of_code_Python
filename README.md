@@ -785,3 +785,8 @@ What I Did: Advanced - Make POST Requests with Flask and HTML Forms
 What I Learned: 
 
 Link to work:
+
+Useful links:
+- https://www.w3schools.com/tags/att_form_method.asp
+- https://www.w3schools.com/tags/att_form_action.asp
+- https://flask.palletsprojects.com/en/stable/quickstart/#http-methods
