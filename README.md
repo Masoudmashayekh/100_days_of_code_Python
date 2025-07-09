@@ -814,3 +814,4 @@ Link to work:
 
 Useful links:
 - WTForms: https://wtforms.readthedocs.io/en/3.0.x/
+- Basic fields: https://wtforms.readthedocs.io/en/3.0.x/fields/#basic-fields
