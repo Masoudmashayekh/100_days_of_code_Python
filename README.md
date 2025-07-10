@@ -824,3 +824,15 @@ Useful links:
 - Validators: https://wtforms.readthedocs.io/en/3.0.x/crash_course/#validators
 - Displaying Errors: https://wtforms.readthedocs.io/en/3.0.x/crash_course/#displaying-errors
 - bootstrap-flask: https://bootstrap-flask.readthedocs.io/en/stable/
+
+
+## Day 62/100: 
+What I Did: 
+
+What I Learned:
+
+
+Link to work:
+
+
+Useful links:
