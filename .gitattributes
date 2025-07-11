@@ -1,1 +1,3 @@
 static/css/* linguist-vendored
+# Ignore all CSS files in language stats
+*.css linguist-vendored
