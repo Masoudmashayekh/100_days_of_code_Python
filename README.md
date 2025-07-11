@@ -861,15 +861,24 @@ Useful links:
 
 
 ## Day 65/100: How to Create a Website that People will Love
+| <img src="./Day_65_UI_UX_Design/Project_images/1.png" width="250"/> | <img src="./Day_65_UI_UX_Design/Project_images/2.png" width="250"/> | <img src="./Day_65_UI_UX_Design/Project_images/3.png" width="250"/> |
+
+
 What I Did: Web Design School - How to Create a Website that People will Love
 
 What I Learned:
 - Introduction to Web Design
 - Understanding Color Theory
 - Understanding Typography and How to Choose
+- Manage ATTENTION with effective User Interface (UI) Design
+- User Experience (UX) Design
+- Web Design in Practice - Let's apply what we've learnt!
 
 
 Link to work:
 
 
 Useful links:
+- https://colorhunt.co/
+- https://color.adobe.com/create/color-wheel
+- https://www.dailyui.co/
