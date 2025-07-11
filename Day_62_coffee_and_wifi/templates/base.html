@@ -8,11 +8,10 @@
     />
 
     {% block styles %}
-    <!-- Load Bootstrap-Flask CSS here -->
+            <!-- Bootstrap CSS -->
+            {{ bootstrap.load_css() }}
+        {% endblock %}
 
-    <!-- Link to the styles.css here to apply styling to all the child templates.-->
-
-    {% endblock %}
     <title>{% block title %}{% endblock %}</title>
   </head>
   <body>
