@@ -836,3 +836,40 @@ Link to work:
 
 
 Useful links:
+
+## Day 63/100: 
+What I Did: 
+
+What I Learned:
+
+
+Link to work:
+
+
+Useful links:
+
+## Day 64/100: 
+What I Did: 
+
+What I Learned:
+
+
+Link to work:
+
+
+Useful links:
+
+
+## Day 65/100: How to Create a Website that People will Love
+What I Did: Web Design School - How to Create a Website that People will Love
+
+What I Learned:
+- Introduction to Web Design
+- Understanding Color Theory
+- Understanding Typography and How to Choose
+
+
+Link to work:
+
+
+Useful links:
