@@ -1,8 +1,4 @@
 static/css/* linguist-vendored
 # Ignore all CSS files in language stats
-# *.css linguist-vendored
+*.css linguist-vendored
 
-Day_56_Intermediate_Rendering_HTML_Static_files/name-card/static/assets/css/noscript.css linguist-vendored
-Day_56_Intermediate_Rendering_HTML_Static_files/name-card/static/assets/css/ie9.css linguist-vendored
-Day_56_Intermediate_Rendering_HTML_Static_files/name-card/static/assets/css/ie8.css linguist-vendored
-Day_58_Web_Foundation_Bootstrap/11.3 TinDog Project/css/solution.css linguist-vendored
