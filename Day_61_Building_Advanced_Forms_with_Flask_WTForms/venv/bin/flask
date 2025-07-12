@@ -1,0 +1,8 @@
+#!/Users/masoudmashayekh/Documents/Python/git/100_days_of_code_Python/Day_61_Building_Advanced_Forms_with_Flask_WTForms/venv/bin/python3.12
+# -*- coding: utf-8 -*-
+import re
+import sys
+from flask.cli import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
