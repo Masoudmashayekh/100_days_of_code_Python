@@ -52,7 +52,6 @@ def home():
     return render_template("index.html")
 
 
-# HTTP GET - Read Record
 @app.route("/random")
 def get_random_cafe():
     result = db.session.execute(db.select(Cafe))
@@ -88,11 +87,50 @@ def get_all_cafes():
     return jsonify(cafes=[cafe.to_dict() for cafe in all_cafes])
 
 
-# HTTP POST - Create Record
+@app.route("/search")
+def get_cafe_at_location():
+    query_location = request.args.get("loc")
+    result = db.session.execute(db.select(Cafe).where(Cafe.location == query_location))
+    # Note, this may get more than one cafe per location
+    all_cafes = result.scalars().all()
+    if all_cafes:
+        return jsonify(cafes=[cafe.to_dict() for cafe in all_cafes])
+    else:
+        return jsonify(error={"Not Found": "Sorry, we don't have a cafe at that location."}), 404
 
-# HTTP PUT/PATCH - Update Record
+@app.route("/add", methods=["POST"])
+def post_new_cafe():
+    new_cafe = Cafe(
+        name=request.form.get("name"),
+        map_url=request.form.get("map_url"),
+        img_url=request.form.get("img_url"),
+        location=request.form.get("loc"),
+        has_sockets=bool(request.form.get("sockets")),
+        has_toilet=bool(request.form.get("toilet")),
+        has_wifi=bool(request.form.get("wifi")),
+        can_take_calls=bool(request.form.get("calls")),
+        seats=request.form.get("seats"),
+        coffee_price=request.form.get("coffee_price"),
+    )
+    db.session.add(new_cafe)
+    db.session.commit()
+    return jsonify(response={"success": "Successfully added the new cafe."})
 
-# HTTP DELETE - Delete Record
+
+# Updating the price of a cafe based on a particular id:
+# http://127.0.0.1:5000/update-price/CAFE_ID?new_price=£5.67
+@app.route("/update-price/<int:cafe_id>", methods=["PATCH"])
+def patch_new_price(cafe_id):
+    new_price = request.args.get("new_price")
+    try:
+        cafe = db.get(Cafe, cafe_id)
+    except AttributeError:
+        return jsonify(error={"Not Found": "Sorry a cafe with that id was not found in the database."}), 404
+    else:
+        cafe.coffee_price = new_price
+        db.session.commit()
+        return jsonify(response={"success": "Successfully updated the price."}), 200
+
 
 
 if __name__ == '__main__':
