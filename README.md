@@ -877,8 +877,41 @@ What I Learned:
 
 Link to work:
 
-
 Useful links:
 - https://colorhunt.co/
 - https://color.adobe.com/create/color-wheel
 - https://www.dailyui.co/
+
+
+## Day 66/100: Building Your Own API with RESTful Routing
+
+What I Did: Advanced - Building Your Own API with RESTful Routing
+
+What I Learned:
+- Build Your Own REST API Service
+- What is REST?
+- HTTP GET - a Random Cafe
+- HTTP GET - All the Cafes
+- HTTP GET - Find a Cafe
+- Postman - The all in one API Testing Tool
+- HTTP POST - A New Cafe
+- HTTP PUT vs. PATCH
+- HTTP PATCH - A Cafe's Coffee Price
+- HTTP DELETE - A Cafe that's Closed
+- Build Documentation for Your API
+
+
+Link to work:
+[github](./Day_66_Building_Your_Own_API/)
+Useful links:
+- https://sqlitebrowser.org/
+- https://tedboy.github.io/flask/generated/flask.jsonify.html
+- https://flask.palletsprojects.com/en/stable/api/#flask.json.jsonify
+- https://laptopfriendly.co/london
+- https://flask-sqlalchemy.palletsprojects.com/en/stable/quickstart/#query-the-data
+- https://docs.sqlalchemy.org/en/20/tutorial/data_select.html
+- https://www.postman.com/downloads/
+- https://laptopfriendly.co/suggest
+- https://www.postman.com/downloads/
+- https://learning.postman.com/docs/publishing-your-api/documenting-your-api/
+- https://documenter.getpostman.com/view/2568017/TVRhd9qR
