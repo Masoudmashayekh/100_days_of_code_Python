@@ -995,3 +995,30 @@ Useful links:
 - https://www.anaconda.com/download
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
 - https://www.payscale.com/research/US/Country=United_States/Salary
+
+
+## Day 73/100: 
+
+What I Did: Advanced - Data Visualisation with Matplotlib: Programming Languages
+
+What I Learned:
+- Download and Open the Starter Notebook
+-  Preliminary Data Exploration
+- Analysis by Programming Language
+- Data Cleaning: Working with Time Stamps
+- Data Manipulation: Pivoting DataFrames
+- Data Visualisation with Matplotlib
+- Multi-Line Charts with Matplotib
+- Programming Language Data Analysis
+- Programming Language Data Analysis
+
+Link to work:
+[github](./Day_73_Data_Visualisation_with_Matplotlib/)
+
+Useful links:
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.pivot.html
+- https://matplotlib.org/
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rolling.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.core.window.rolling.Rolling.mean.html
