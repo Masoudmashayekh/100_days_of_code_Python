@@ -1,0 +1,1 @@
+<img src="./Day_72_Advanced_Data_Exploration_with_Pandas/Project_images/pic72.png" width="400"/>
