@@ -915,3 +915,53 @@ Useful links:
 - https://www.postman.com/downloads/
 - https://learning.postman.com/docs/publishing-your-api/documenting-your-api/
 - https://documenter.getpostman.com/view/2568017/TVRhd9qR
+
+
+## Day 67/100: 
+
+What I Did:
+
+What I Learned:
+
+Link to work:
+
+Useful links:
+
+
+## Day 68/100: 
+
+What I Did:
+
+What I Learned:
+
+Link to work:
+
+Useful links:
+
+
+## Day 69/100: 
+
+What I Did:
+
+What I Learned:
+
+Link to work:
+
+Useful links:
+
+
+## Day 70/100: Git, Github and Version Control
+
+What I Did: Advanced - Git, Github and Version Control
+
+What I Learned:
+- The Terminal - use either VS Code or PyCharm
+-  Install Git Bash on Windows
+-  Introduction to Version Control and Git
+-  Introduction to Version Control and Git
+- Github and Remote Repositories
+- 
+
+Link to work:
+
+Useful links:
