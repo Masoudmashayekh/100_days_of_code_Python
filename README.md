@@ -963,8 +963,12 @@ What I Learned:
 - Gitignore
 - Cloning
 - Branching and Merging
--  
+- Forking and Pull Requests
+
 
 Link to work:
-
+[github](./Day_70_Git_Github_and_Version_Control/)
 Useful links:
+- https://github.com/MunGell/awesome-for-beginners
+- https://github.com/github/gitignore
+- https://gitforwindows.org/
