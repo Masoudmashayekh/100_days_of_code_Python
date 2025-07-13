@@ -974,6 +974,16 @@ Useful links:
 - https://gitforwindows.org/
 
 
+## Day 71/100: 
+
+What I Did:
+
+What I Learned:
+
+Link to work:
+
+Useful links:
+
 ## Day 72/100: Data Exploration with Pandas
 
 What I Did: Advanced - Data Exploration with Pandas: College Major v.s. Your Salary
