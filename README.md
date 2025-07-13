@@ -972,3 +972,29 @@ Useful links:
 - https://github.com/MunGell/awesome-for-beginners
 - https://github.com/github/gitignore
 - https://gitforwindows.org/
+
+
+## Day 72/100: Data Exploration with Pandas
+
+What I Did: Advanced - Data Exploration with Pandas: College Major v.s. Your Salary
+
+What I Learned:
+- Getting Set Up for Data Science
+- Upload the Data and Read the .csv File
+-  Preliminary Data Exploration and Data Cleaning with Pandas
+- Accessing Columns and Individual Cells in a Dataframe
+- Solution: Highest and Lowest Earning Degrees
+- Sorting Values & Adding Columns: Majors with the Most Potential vs Lowest Risk
+- Solution: Degrees with the Highest Potential
+-  Grouping and Pivoting Data with Pandas
+- Use .head(), .tail(), .shape and .columns to explore your DataFrame and find out the number of rows and columns as well as the column names.
+- Look for NaN (not a number) values with .findna() and consider using .dropna() to clean up your DataFrame.
+- You can access entire columns of a DataFrame using the square bracket notation: df['column name'] or df[['column name 1', 'column name 2', 'column name 3']]
+- You can access individual cells in a DataFrame by chaining square brackets df['column name'][index] or using df['column name'].loc[index]
+- The largest and smallest values, as well as their positions, can be found with methods like .max(), .min(), .idxmax() and .idxmin()
+- You can sort the DataFrame with .sort_values() and add new columns with .insert()
+- To create an Excel Style Pivot Table by grouping entries that belong to a particular category use the .groupby() method
+
+Link to work:
+
+Useful links:
