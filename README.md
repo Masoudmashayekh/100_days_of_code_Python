@@ -989,5 +989,9 @@ What I Learned:
 - Grouping and Pivoting Data with Pandas
 
 Link to work:
+[github](./Day_72_Advanced_Data_Exploration_with_Pandas/)
 
 Useful links:
+- https://www.anaconda.com/download
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
+- https://www.payscale.com/research/US/Country=United_States/Salary
