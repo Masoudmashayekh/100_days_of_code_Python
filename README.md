@@ -997,7 +997,7 @@ Useful links:
 - https://www.payscale.com/research/US/Country=United_States/Salary
 
 
-## Day 73/100: 
+## Day 73/100: Data Visualisation with Matplotlib
 
 What I Did: Advanced - Data Visualisation with Matplotlib: Programming Languages
 
