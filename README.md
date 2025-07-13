@@ -960,7 +960,9 @@ What I Learned:
 -  Introduction to Version Control and Git
 -  Introduction to Version Control and Git
 - Github and Remote Repositories
-- 
+- Gitignore
+- Cloning
+ 
 
 Link to work:
 
