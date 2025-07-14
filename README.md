@@ -1060,11 +1060,14 @@ Useful links:
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.nunique.html#pandas.DataFrame.nunique
 
-# Day 75/100: 
+# Day 75/100: Google Trends Data
 
-What I Did:
+What I Did: Advanced - Google Trends Data: Resampling and Visualising Time Series
 
 What I Learned:
+- Data Exploration - Making Sense of Google Search Data
+- 
+- 
 
 Link to work:
 
