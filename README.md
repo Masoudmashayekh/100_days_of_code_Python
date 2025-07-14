@@ -1041,6 +1041,7 @@ What I Learned:
 - Use HTML Markdown to Make Your Notebook Look Pretty
 - Exploring the LEGO Brick Colours
 - Find the Oldest and Largest LEGO Sets
+- Visualise the Number of Sets Published over Time
 - 
 
 Link to work:
