@@ -1043,6 +1043,9 @@ What I Learned:
 - Find the Oldest and Largest LEGO Sets
 - Visualise the Number of Sets Published over Time
 - How to use the Pandas .agg() function
+- Superimposing Line Charts with Separate Axes
+- Scatter Plots: Average Number of Parts per LEGO Set
+-  Relational Database Schemas: Primary and Foreign Keys
 - 
 
 Link to work:
