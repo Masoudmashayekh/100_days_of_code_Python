@@ -1032,3 +1032,17 @@ Useful links:
 - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rolling.html
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.core.window.rolling.Rolling.mean.html
+
+## Day 74/100: Aggregate & Merge Data with Pandas
+
+What I Did: Advanced - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+
+What I Learned:
+- Use HTML Markdown to Make Your Notebook Look Pretty
+- Exploring the LEGO Brick Colours
+- Find the Oldest and Largest LEGO Sets
+- 
+
+Link to work:
+
+Useful links:
