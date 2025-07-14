@@ -1071,6 +1071,7 @@ What I Learned:
 - Using Locators and DateFormatters to generate Tick Marks on a Time Line
 - Data Visualisation - Bitcoin: Line Style and Markers
 - Data Visualisation - Unemployment: How to use Grids
+- Data Visualisation - Unemployment: The Effect of New Data
 
 Link to work:
 
