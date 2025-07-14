@@ -1066,7 +1066,8 @@ What I Did: Advanced - Google Trends Data: Resampling and Visualising Time Serie
 
 What I Learned:
 - Data Exploration - Making Sense of Google Search Data
-- 
+- Data Cleaning - Resampling Time Series Data
+- Data Visualisation - Tesla Line Charts in Matplotlib
 - 
 
 Link to work:
