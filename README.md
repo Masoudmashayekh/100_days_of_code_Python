@@ -1074,5 +1074,9 @@ What I Learned:
 - Data Visualisation - Unemployment: The Effect of New Data
 
 Link to work:
+[github](./Day_75_Google_Trends_Data/)
 
 Useful links:
+- https://matplotlib.org/stable/api/matplotlib_configuration_api.html
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset-objects
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.resample.html
