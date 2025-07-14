@@ -1046,7 +1046,7 @@ What I Learned:
 - Superimposing Line Charts with Separate Axes
 - Scatter Plots: Average Number of Parts per LEGO Set
 -  Relational Database Schemas: Primary and Foreign Keys
-- 
+-  How to Merge DataFrames and Create Bar Charts
 
 Link to work:
 
