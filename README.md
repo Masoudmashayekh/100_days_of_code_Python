@@ -1049,5 +1049,13 @@ What I Learned:
 -  How to Merge DataFrames and Create Bar Charts
 
 Link to work:
+[github](./Day_74_Aggregate_Merge_Data_with_Pandas/)
 
 Useful links:
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html#pandas.DataFrame.merge
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html#pandas.DataFrame.sort_values
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.nunique.html#pandas.DataFrame.nunique
