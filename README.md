@@ -1042,6 +1042,7 @@ What I Learned:
 - Exploring the LEGO Brick Colours
 - Find the Oldest and Largest LEGO Sets
 - Visualise the Number of Sets Published over Time
+- How to use the Pandas .agg() function
 - 
 
 Link to work:
