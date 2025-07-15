@@ -1090,6 +1090,7 @@ What I Learned:
 - Data Cleaning: Removing NaN Values and Duplicates
 - Preliminary Exploration: The Highest Ratings, Most Reviews, and Largest Size
 - Data Visualisation with Plotly: Create Pie and Donut Charts
+- Numeric Type Conversions for the Installations & Price Data
 Link to work:
 
 Useful links:
