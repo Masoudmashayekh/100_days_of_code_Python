@@ -1094,6 +1094,10 @@ What I Learned:
 - Plotly Bar Charts & Scatter Plots: The Most Competitive & Popular App Categories
 - Extracting Nested Column Data using .stack()
 - Grouped Bar Charts and Box Plots with Plotly
+
 Link to work:
+[github](./Day_76_Beautiful_Plotly_Charts_Analysing/)
 
 Useful links:
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sample.html
+- https://plotly.com/python/
