@@ -1088,7 +1088,7 @@ What I Did: Advanced - Beautiful Plotly Charts & Analysing the Android App Store
 
 What I Learned:
 - Data Cleaning: Removing NaN Values and Duplicates
-- 
+- Preliminary Exploration: The Highest Ratings, Most Reviews, and Largest Size
 Link to work:
 
 Useful links:
