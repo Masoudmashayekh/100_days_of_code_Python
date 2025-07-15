@@ -1120,5 +1120,5 @@ Useful links:
 - https://numpy.org/devdocs/user/absolute_beginners.html#how-to-reverse-an-array
 - https://en.wikipedia.org/wiki/Matrix_multiplication#Illustration
 - https://en.wikipedia.org/wiki/Grayscale#Colorimetric_(perceptual_luminance-preserving)_conversion_to_grayscale
-- 
+
 
