@@ -1091,6 +1091,7 @@ What I Learned:
 - Preliminary Exploration: The Highest Ratings, Most Reviews, and Largest Size
 - Data Visualisation with Plotly: Create Pie and Donut Charts
 - Numeric Type Conversions for the Installations & Price Data
+- Plotly Bar Charts & Scatter Plots: The Most Competitive & Popular App Categories
 Link to work:
 
 Useful links:
