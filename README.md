@@ -1092,6 +1092,7 @@ What I Learned:
 - Data Visualisation with Plotly: Create Pie and Donut Charts
 - Numeric Type Conversions for the Installations & Price Data
 - Plotly Bar Charts & Scatter Plots: The Most Competitive & Popular App Categories
+- Extracting Nested Column Data using .stack()
 Link to work:
 
 Useful links:
