@@ -1093,6 +1093,7 @@ What I Learned:
 - Numeric Type Conversions for the Installations & Price Data
 - Plotly Bar Charts & Scatter Plots: The Most Competitive & Popular App Categories
 - Extracting Nested Column Data using .stack()
+- Grouped Bar Charts and Box Plots with Plotly
 Link to work:
 
 Useful links:
