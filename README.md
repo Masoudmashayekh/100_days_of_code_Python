@@ -1080,3 +1080,15 @@ Useful links:
 - https://matplotlib.org/stable/api/matplotlib_configuration_api.html
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset-objects
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.resample.html
+
+
+## Day 76/100: Beautiful Plotly Charts & Analysing
+
+What I Did: Advanced - Beautiful Plotly Charts & Analysing the Android App Store
+
+What I Learned:
+- Data Cleaning: Removing NaN Values and Duplicates
+- 
+Link to work:
+
+Useful links:
