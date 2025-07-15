@@ -1101,3 +1101,24 @@ Link to work:
 Useful links:
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sample.html
 - https://plotly.com/python/
+
+
+## Day 77/100: NumPy and N-Dimensional Arrays
+
+What I Did: Advanced - Computation with NumPy and N-Dimensional Arrays
+
+What I Learned:
+- NumPy's ndarray - Incredible Power at Your Fingertips!
+- Generating and Manipulating ndarrays
+- Broadcasting, Scalars and Matrix Multiplication
+- Manipulating Images as ndarrays
+
+Link to work:
+[github](./Day_77_NumPy_and_N_Dimensional_Arrays/)
+
+Useful links:
+- https://numpy.org/devdocs/user/absolute_beginners.html#how-to-reverse-an-array
+- https://en.wikipedia.org/wiki/Matrix_multiplication#Illustration
+- https://en.wikipedia.org/wiki/Grayscale#Colorimetric_(perceptual_luminance-preserving)_conversion_to_grayscale
+- 
+
