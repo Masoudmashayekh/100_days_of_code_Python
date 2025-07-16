@@ -1122,3 +1122,14 @@ Useful links:
 - https://en.wikipedia.org/wiki/Grayscale#Colorimetric_(perceptual_luminance-preserving)_conversion_to_grayscale
 
 
+## Day 78/100: Data Visualisation with Seaborn
+
+What I Did: Advanced - Linear Regression and Data Visualisation with Seaborn
+
+What I Learned:
+- Explore and Clean the Data
+
+Link to work:
+
+Useful links:
+
