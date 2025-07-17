@@ -1132,6 +1132,7 @@ What I Learned:
 - Filter on Multiple Conditions: International Films
 - Seaborn Data Visualisation: Bubble Charts
 - Floor Division: A Trick to Convert Years to Decades
+- Plotting Linear Regressions with Seaborn
 Link to work:
 
 Useful links:
