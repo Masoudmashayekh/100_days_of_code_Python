@@ -1134,7 +1134,16 @@ What I Learned:
 - Floor Division: A Trick to Convert Years to Decades
 - Plotting Linear Regressions with Seaborn
 - Use scikit-learn to Run Your Own Regression
+
 Link to work:
+[github](./Day_78_Data_Visualisation_with_Seaborn/)
 
 Useful links:
-
+- https://docs.python.org/3.4/library/operator.html#mapping-operators-to-functions
+- https://seaborn.pydata.org/
+- https://seaborn.pydata.org/generated/seaborn.scatterplot.html#seaborn.scatterplot
+- https://python-graph-gallery.com/104-seaborn-themes/
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DatetimeIndex.html
+- https://seaborn.pydata.org/generated/seaborn.regplot.html#seaborn.regplot
+- https://scikit-learn.org/stable/
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
