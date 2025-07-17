@@ -1133,6 +1133,7 @@ What I Learned:
 - Seaborn Data Visualisation: Bubble Charts
 - Floor Division: A Trick to Convert Years to Decades
 - Plotting Linear Regressions with Seaborn
+- Use scikit-learn to Run Your Own Regression
 Link to work:
 
 Useful links:
