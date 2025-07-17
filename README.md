@@ -1130,6 +1130,8 @@ What I Learned:
 - Explore and Clean the Data
 - Investigate the Films that had Zero Revenue
 - Filter on Multiple Conditions: International Films
+- Seaborn Data Visualisation: Bubble Charts
+
 Link to work:
 
 Useful links:
