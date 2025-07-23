@@ -1036,6 +1036,11 @@ Useful links:
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.core.window.rolling.Rolling.mean.html
 
 ## Day 74/100: Aggregate & Merge Data with Pandas
+<img src="./Day_74_Aggregate_Merge_Data_with_Pandas/Project_images/plot_1.png" width="250"/>  
+<img src="./Day_74_Aggregate_Merge_Data_with_Pandas/Project_images/plot_2.png" width="250"/> 
+<img src="./Day_74_Aggregate_Merge_Data_with_Pandas/Project_images/plot_3.png" width="250"/>  
+
+
 
 What I Did: Advanced - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
 
