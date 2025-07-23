@@ -1008,7 +1008,7 @@ Useful links:
 
 
 ## Day 73/100: Data Visualisation with Matplotlib
-| <img src="./Day_73_Data_Visualisation_with_Matplotlib/Project_images/plot_1.png" width="300"/> | <img src="./Day_73_Data_Visualisation_with_Matplotlib/Project_images/plot_2.png" width="300"/> |
+ <img src="./Day_73_Data_Visualisation_with_Matplotlib/Project_images/plot_1.png" width="350"/>  <img src="./Day_73_Data_Visualisation_with_Matplotlib/Project_images/plot_2.png" width="350"/> 
 
 
 What I Did: Advanced - Data Visualisation with Matplotlib: Programming Languages
