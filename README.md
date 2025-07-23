@@ -1147,3 +1147,16 @@ Useful links:
 - https://seaborn.pydata.org/generated/seaborn.regplot.html#seaborn.regplot
 - https://scikit-learn.org/stable/
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+## Day 79/100: Analysing with Plotly, Matplotlib & Seaborn 
+
+What I Did: Advanced - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn 
+ 
+What I Learned:
+- 
+
+Link to work:
+[github](./Day_78_Data_Visualisation_with_Seaborn/)
+
+Useful links:
+- 
