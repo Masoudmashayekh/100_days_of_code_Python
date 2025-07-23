@@ -782,6 +782,7 @@ Useful links:
 ## Day 60/100: Make POST Requests with Flask and HTML Forms
 
 | <img src="./Day_60_Advanced_Make_POST_Requests_with_Flask_HTML_Forms/Project_images/1.png" width="250"/> | <img src="./Day_60_Advanced_Make_POST_Requests_with_Flask_HTML_Forms/Project_images/2.png" width="250"/> | <img src="./Day_60_Advanced_Make_POST_Requests_with_Flask_HTML_Forms/Project_images/3.PNG" width="250"/> |
+|---|---|---|
 
 What I Did: Advanced - Make POST Requests with Flask and HTML Forms
 
