@@ -1164,6 +1164,8 @@ What I Learned:
 - Update Packages in Google Colab & Explore and Clean the Dataset
 - plotly Bar & Donut Charts: Analyse Prize Categories & Women Winning Prizes
 - Using Matplotlib to Visualise Trends over Time
+- A Choropleth Map and the Countries with the Most Prizes
+- 
 
 Link to work:
 [github](./Day_78_Data_Visualisation_with_Seaborn/)
