@@ -1161,7 +1161,9 @@ Useful links:
 What I Did: Advanced - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn 
  
 What I Learned:
-- 
+- Update Packages in Google Colab & Explore and Clean the Dataset
+- plotly Bar & Donut Charts: Analyse Prize Categories & Women Winning Prizes
+- Using Matplotlib to Visualise Trends over Time
 
 Link to work:
 [github](./Day_78_Data_Visualisation_with_Seaborn/)
