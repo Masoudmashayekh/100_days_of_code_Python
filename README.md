@@ -1158,6 +1158,10 @@ Useful links:
 
 ## Day 79/100: Analysing with Plotly, Matplotlib & Seaborn 
 
+| <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/1.png" width="300"/> | <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/2.png" width="300"/> | 
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/3.png" width="300"/> | <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/4.png" width="300"/>
+
 What I Did: Advanced - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn 
  
 What I Learned:
@@ -1167,10 +1171,9 @@ What I Learned:
 - A Choropleth Map and the Countries with the Most Prizes
 - Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations
 - Unearthing Patterns in the Laureate Age at the Time of the Award
-- 
 
 Link to work:
-[github](./Day_78_Data_Visualisation_with_Seaborn/)
+[github](./Day_79_Analysing_Plotly_Matplotlib_Seaborn/)
 
 Useful links:
 - 
