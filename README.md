@@ -1176,4 +1176,12 @@ Link to work:
 [github](./Day_79_Analysing_Plotly_Matplotlib_Seaborn/)
 
 Useful links:
-- 
+- https://plotly.com/python/pie-charts/
+- https://plotly.com/python/bar-charts/
+- https://matplotlib.org/3.1.0/gallery/color/named_colors.html
+- https://plotly.com/python/choropleth-maps/
+- https://plotly.com/python/builtin-colorscales/
+- https://plotly.com/python/sunburst-charts/
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.html
+- https://seaborn.pydata.org/generated/seaborn.histplot.html
+- https://seaborn.pydata.org/generated/seaborn.regplot.html#seaborn.regplot
