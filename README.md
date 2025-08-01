@@ -1158,9 +1158,9 @@ Useful links:
 
 ## Day 79/100: Analysing with Plotly, Matplotlib & Seaborn 
 
-| <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/1.png" width="300"/> | <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/2.png" width="300"/> | 
+| <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/1.png" width="400"/> | <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/2.png" width="400"/> | 
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/3.png" width="300"/> | <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/4.png" width="300"/>
+| <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/3.png" width="400"/> | <img src="./Day_79_Analysing_Plotly_Matplotlib_Seaborn/Project_images/4.png" width="400"/>
 
 What I Did: Advanced - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn 
  
