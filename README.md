@@ -1193,6 +1193,7 @@ What I Did: Advanced - The Tragic Discovery of Handwashing: t-Tests & Distributi
  
 What I Learned:
 - Preliminary Data Exploration and Visualising Births & Deaths at Vienna Hospital
+- Analysing the Yearly Data Split By Clinic
 
 Link to work:
 [github](./Day_79_Analysing_Plotly_Matplotlib_Seaborn/)
