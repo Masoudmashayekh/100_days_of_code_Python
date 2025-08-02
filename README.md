@@ -1185,3 +1185,17 @@ Useful links:
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.html
 - https://seaborn.pydata.org/generated/seaborn.histplot.html
 - https://seaborn.pydata.org/generated/seaborn.regplot.html#seaborn.regplot
+
+## Day 80/100: t-Tests & Distributions
+
+
+What I Did: Advanced - The Tragic Discovery of Handwashing: t-Tests & Distributions
+ 
+What I Learned:
+- Preliminary Data Exploration and Visualising Births & Deaths at Vienna Hospital
+
+Link to work:
+[github](./Day_79_Analysing_Plotly_Matplotlib_Seaborn/)
+
+Useful links:
+-
